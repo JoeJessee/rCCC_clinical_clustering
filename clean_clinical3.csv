@@ -1,0 +1,538 @@
+,case_id,gender,year_of_birth,race,ethnicity,year_of_death,primary_diagnosis,tumor_stage,age_at_diagnosis,vital_status,days_to_death,days_to_last_follow_up,age_at_death
+0,8f936d84-3b81-4d1c-aca1-93f5c86ed1bc,male,1936.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,26360.0,alive,,603.0,
+1,26cc2c84-aaec-4cd1-9c45-dd08d372128d,male,1946.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",3.0,22331.0,dead,65.0,26.0,22396.0
+2,4cfe4f31-f62c-423a-8b9f-17f455b15313,male,1935.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,25268.0,alive,,2361.0,
+3,e0127e51-43ba-4536-bc9d-004591f9c627,male,1924.0,white,not_reported,2007.0,"Clear cell adenocarcinoma, NOS",4.0,30659.0,dead,311.0,,30970.0
+4,97fee782-9aa3-41c7-8b7b-53c9c69bdabc,male,1939.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24067.0,alive,,3583.0,
+5,79e469c5-c18c-4c20-aaa2-8866623229d9,male,1939.0,white,not_reported,2008.0,"Clear cell adenocarcinoma, NOS",3.0,23498.0,dead,1912.0,,25410.0
+6,878d1caa-c4d8-4864-888c-310a0c1ee898,male,1923.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,30729.0,dead,59.0,59.0,30788.0
+7,e5eca191-f585-490d-81e3-9cced1047093,male,1947.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,20609.0,dead,645.0,645.0,21254.0
+8,2953131e-9c34-4fa2-8af4-2c8d66ea2821,male,1964.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,17190.0,alive,,1018.0,
+9,f8804530-3c83-4787-9467-b18a1c73f610,male,1932.0,white,not_reported,2009.0,"Clear cell adenocarcinoma, NOS",1.0,25677.0,dead,2601.0,,28278.0
+10,34e8fbd8-ed33-4d11-af4a-dd33af37fe28,female,1933.0,white,not_reported,2004.0,"Clear cell adenocarcinoma, NOS",1.0,25752.0,dead,562.0,,26314.0
+11,18325fdc-594b-4545-a77d-adb07a32ec73,female,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23062.0,alive,,1520.0,
+12,dd35edfd-ee6c-461f-b2a6-2dff8324117c,male,1973.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,12508.0,alive,,1107.0,
+13,2d7e2ae4-09ba-40af-82ce-66ac7dbd4831,male,1934.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,25615.0,alive,,193.0,
+14,b6d4e2d5-5739-4be3-8a4c-6e7a17d1d40f,male,1933.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,27556.0,alive,,29.0,
+15,f5759059-c0e3-4f1a-af96-5c7197d3c33c,male,1946.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,21928.0,dead,445.0,,22373.0
+16,2de427e2-b1f3-4915-9750-ab6414edc92e,female,1962.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,17468.0,alive,,551.0,
+17,c0171d4e-9970-44f4-8502-f31f0e145643,male,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25494.0,alive,,2392.0,
+18,828ad452-3daf-4467-bcbc-6dac2c93a7db,female,1943.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24729.0,alive,,435.0,
+19,551e8a06-382f-4cc3-b6b4-6ad61181f1f7,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22980.0,alive,,175.0,
+20,e58f2c7b-d1cc-48f3-a0c9-dcd2b27c37f6,female,1969.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15219.0,alive,,1046.0,
+21,351fb9f4-a3b6-44d8-9fdc-5b0b582fda23,female,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22852.0,dead,2241.0,1853.0,25093.0
+22,fc052a9d-0134-46ce-af98-4703b61d63c4,female,1980.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,10698.0,alive,,355.0,
+23,b81998f2-b3ff-4976-bc1c-8d38a68efa1d,male,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21727.0,alive,,1459.0,
+24,291f45ab-1b77-456a-9783-06106fbe3053,female,1927.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28878.0,alive,,3267.0,
+25,13e25128-9be1-4f67-a43f-a8744a619203,male,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22170.0,alive,,1905.0,
+26,844ec449-eec0-4ea7-9da9-b75a164bef16,male,1944.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,22147.0,dead,793.0,,22940.0
+27,98ff8a6b-0ead-4e55-9fb7-6fe5cc69d0f6,male,1929.0,white,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",4.0,29873.0,dead,99.0,,29972.0
+28,8593764c-e468-4229-94de-6ba614b4f068,male,1975.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,12937.0,alive,,43.0,
+29,4cfe9a35-80f2-422b-82e8-8f4b12ded992,male,1945.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,23322.0,dead,600.0,,23922.0
+30,f3a921d5-7a6d-4a6e-893b-a5e1d3f4750b,female,1938.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,25976.0,alive,,2009.0,
+31,4c474c70-1d72-49e8-a8cc-a4145c5ab607,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,21242.0,alive,,1997.0,
+32,bb4a6123-5851-4e49-b859-606ffd2a4d11,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21168.0,alive,,2430.0,
+33,2890b330-8ba5-4031-bed5-13e9d1d75af9,male,1945.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,21380.0,dead,1625.0,,23005.0
+34,06d86d68-0fd5-4c6e-8783-ed732a3291e8,male,1955.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,17923.0,alive,,2554.0,
+35,3c1b6de7-c45f-4d86-be4b-a72ca7ca7cf9,female,1938.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,23685.0,alive,,3037.0,
+36,cc353686-e2b6-46a1-8095-48e2bc44b11f,male,1949.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,20950.0,alive,,454.0,
+37,2711b4a4-9e6f-4a12-add6-c10f72e97d3c,male,1936.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27526.0,alive,,340.0,
+38,30208a4c-ecb0-4b3c-a349-87e1c1f43e85,male,1949.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,20229.0,alive,,2412.0,
+39,89500416-1a5e-4f52-a1b9-6394f3943e4d,male,1953.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19739.0,alive,,1413.0,
+40,3372a7d2-79cb-4cf0-9a7e-fe1a6b205daa,female,1929.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,27966.0,dead,1610.0,1610.0,29576.0
+41,8ee720b5-6f3a-4921-85ab-70e75c0835b0,male,1938.0,,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,24803.0,alive,,1491.0,
+42,577847b9-f9b6-4954-868f-3d5ab2b4f694,male,1939.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,24640.0,dead,2419.0,25.0,27059.0
+43,c0f7147e-d28b-4358-9219-bb31f3012cff,female,1963.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15698.0,alive,,1952.0,
+44,576ea0ef-3abb-479d-adb7-ba646cee344e,male,1936.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26897.0,alive,,2246.0,
+45,2a9c4ce5-f5b3-4d3e-b6f5-07a9369096b8,female,1963.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,16038.0,alive,,1502.0,
+46,c91a4cc3-aaa9-4bc9-b157-e46551d334c8,female,1931.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,27644.0,alive,,2782.0,
+47,59d18f0c-946f-4850-892f-70e2bf380232,female,1949.0,black or african american,hispanic or latino,,"Renal cell carcinoma, NOS",1.0,22900.0,alive,,909.0,
+48,9b84d013-713b-4571-888c-12863fdd4a52,female,1927.0,white,not_reported,2002.0,"Clear cell adenocarcinoma, NOS",2.0,27556.0,dead,109.0,,27665.0
+49,0b970feb-914f-4159-912f-6efec02b617f,female,1954.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18890.0,alive,,1314.0,
+50,270c9a0b-d71a-4d4e-8686-f183412159f2,male,1947.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,21019.0,alive,,182.0,
+51,c3cc716b-1b9c-4e73-9a40-f1f891a17c2d,female,1932.0,white,not_reported,2005.0,"Clear cell adenocarcinoma, NOS",4.0,26824.0,dead,329.0,,27153.0
+52,7ca06dbe-f073-4aee-86ff-a545fad5ea93,female,1933.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,26224.0,alive,,2186.0,
+53,bbbce1ba-c739-43ba-b9cf-a4f746491ae3,male,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22492.0,alive,,952.0,
+54,f1ed9155-ea54-4435-8920-0df8ed7febda,male,1964.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,16197.0,alive,,1063.0,
+55,2304b8f8-4cb4-46c5-a88e-c78d97b06d6b,male,1931.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",3.0,,dead,561.0,,
+56,4dd51edf-05d1-445a-b43c-6fce29eb21d4,male,1935.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,24909.0,alive,,2552.0,
+57,f6d3e963-5bff-40f6-8430-1c6fb5ec6503,male,1964.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17145.0,alive,,1411.0,
+58,798d51ff-182e-406c-8885-8a198d9959d1,male,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22090.0,alive,,630.0,
+59,a42103aa-0f25-4939-9f9d-9ec11a5c8cca,male,1974.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,13546.0,alive,,323.0,
+60,e1663694-17dd-4b01-b613-2516e022dfb7,male,1938.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,25207.0,alive,,574.0,
+61,2a2f168c-f93a-4e83-8df2-93a3e7bc06a0,male,1967.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,14868.0,alive,,563.0,
+62,7664c241-b369-4d76-9cd1-7f2bdc1d267f,female,1949.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19376.0,dead,1625.0,1625.0,21001.0
+63,21eea125-1298-42d3-a50c-57d596e0420d,male,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27650.0,alive,,1624.0,
+64,393abcf7-1155-4b32-85ca-cd44d259e4b4,male,1954.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,19030.0,dead,330.0,330.0,19360.0
+65,d7155ce6-e6b2-4c1f-8233-85f0d63e8e11,male,1961.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,16578.0,alive,,1423.0,
+66,f72defb3-87ca-4efd-9dc7-d2068533fd98,female,1938.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,24853.0,alive,,372.0,
+67,265f1d03-fa56-4f9a-a1d2-33f123558729,male,1944.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,21949.0,alive,,932.0,
+68,9a404208-c3d3-4e6b-b511-1a4ccf595c18,female,1950.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,20102.0,alive,,354.0,
+69,75e02a42-6937-4761-868b-c369c7bd3c72,male,1945.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,23806.0,alive,,155.0,
+70,a682a2a3-dc53-4b7e-8929-07215737ec5e,male,1931.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28953.0,alive,,656.0,
+71,c6454371-1f84-4e8e-8c3a-2eac8380819e,male,1967.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15264.0,alive,,1130.0,
+72,46194f7f-af16-42b7-bef6-9c0d1e8f9b0d,female,1928.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",3.0,28205.0,dead,637.0,,28842.0
+73,e865d40a-9989-436c-8426-88cc84c863e8,male,1915.0,white,hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,32872.0,dead,1620.0,,34492.0
+74,d6ea5cec-97bf-4c0f-85bf-293d463b0586,female,1964.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,15858.0,alive,,1177.0,
+75,12adefc4-c9fd-46d3-904b-8fc52d5f1913,male,1943.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",3.0,21317.0,dead,866.0,,22183.0
+76,f1ae0181-74f8-47fd-83be-83a7d01101cc,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,20712.0,alive,,2271.0,
+77,7b4e529f-5ed9-4a81-94e6-7a62d604d46d,female,1926.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28714.0,alive,,2017.0,
+78,b428463a-75d5-4663-a53b-ec2993795cc0,female,1958.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,18760.0,alive,,1299.0,
+79,3e976301-4042-4ac0-8f01-ef2f1a8161a6,female,1955.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,18066.0,alive,,3229.0,
+80,1adb05d4-e1ca-4ede-81c7-ff24a243abae,male,1927.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,30355.0,alive,,972.0,
+81,a68bd706-58e7-4d36-bffa-6c94986a8d4e,male,1950.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,20825.0,alive,,1124.0,
+82,f57690ba-a120-4ea2-83e0-0559d1eb62c4,male,1942.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,23052.0,dead,342.0,,23394.0
+83,46bc69a9-0090-4809-92b8-8cb741d9007d,male,1966.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,15935.0,alive,,1604.0,
+84,78ec8bc9-e502-4f5b-b0f6-893718650352,male,1952.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21206.0,alive,,523.0,
+85,a9f73fb6-fc3e-4c0d-ace3-36cd7dcee256,male,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,27146.0,alive,,1367.0,
+86,78048432-2de1-498c-9cf1-9c5bd43daa39,female,1946.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,21340.0,alive,,1498.0,
+87,3128d9bf-71fd-4edb-8d07-98f53ef0432e,male,1953.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19746.0,alive,,1133.0,
+88,e3aa5595-223b-42e9-aec0-e49f631e37d5,male,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23039.0,alive,,1238.0,
+89,804a6159-e381-44ea-8680-43c69d013cef,female,1931.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26761.0,alive,,2283.0,
+90,fef57c51-0858-42fb-b9eb-3727d274a4e1,male,1954.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19560.0,alive,,365.0,
+91,0631dc8c-5950-4419-adf2-ec3b1e259fc8,female,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21836.0,alive,,2038.0,
+92,57070e5b-0eb5-44b7-abb3-3007fa34543a,male,1955.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,19052.0,dead,1092.0,,20144.0
+93,65d56c51-1d58-419e-8c77-a037fc588f5b,male,1947.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23176.0,alive,,788.0,
+94,d99f31f7-2b3b-47e8-bd26-8d37da22aca0,male,1952.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,19139.0,dead,1200.0,,20339.0
+95,bcf26561-6e11-441c-955e-181ef2e68b41,female,1914.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",3.0,32364.0,dead,485.0,,32849.0
+96,c558dffe-5aea-467e-ae4c-fdc2a43ab2fe,male,1951.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19413.0,alive,,2263.0,
+97,c814c26c-ee8e-4fd8-a3d3-441b302ead3b,male,1950.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19647.0,alive,,3841.0,
+98,52d80054-3745-438c-b96e-e344c4ee4a5d,female,1942.0,white,not hispanic or latino,2002.0,"Clear cell adenocarcinoma, NOS",4.0,22220.0,dead,183.0,183.0,22403.0
+99,830b8de5-fd22-49d6-ad1d-c7cf619bf0ac,female,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22864.0,alive,,1496.0,
+100,e002c248-0db9-4f94-8590-88dfd6c0c642,male,1947.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,20993.0,alive,,1955.0,
+101,310c31bf-91ce-40b4-99e4-a10242296de9,male,1957.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,17170.0,alive,,4067.0,
+102,6ccd4657-ffa3-4e82-929f-9a7366a89578,male,1949.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,21407.0,alive,,177.0,
+103,efb088d9-fa88-4caf-a837-20d76efc83f6,female,1934.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",1.0,25268.0,dead,834.0,,26102.0
+104,c15d5920-4f59-4e31-9ba6-1f2de8ab5d5d,male,1940.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23955.0,alive,,1670.0,
+105,4c3e4727-77f5-4374-9d83-ec86d61b02b2,male,1955.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19719.0,alive,,1018.0,
+106,82f069c4-7928-4b7b-8a42-114db7de0501,male,1953.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19946.0,alive,,1308.0,
+107,28c8c2c6-c7bd-4a35-baaf-54133c2ba3ee,male,1929.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,29863.0,alive,,127.0,
+108,bbdaa931-e922-49be-bfbf-fa0c2ae27d7a,male,1942.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",4.0,22438.0,dead,41.0,,22479.0
+109,88fc4bc4-32cf-4d92-8c29-20d920b8f719,female,1930.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,26696.0,dead,1964.0,,28660.0
+110,7080bc0a-709e-4871-9539-4616f194e310,female,1952.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,18666.0,alive,,2489.0,
+111,62f5ceb7-bb0b-4248-850b-cc1cf012f570,female,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,21819.0,alive,,1733.0,
+112,b472c982-f024-4e09-8326-071ee35ea55c,male,1961.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,17008.0,alive,,1071.0,
+113,794aeb92-205f-4c75-bb1a-0b2c6db99fea,female,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19685.0,alive,,3392.0,
+114,ed2e9354-5ee1-4fcf-92ec-a1b507818b91,male,1931.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28901.0,alive,,919.0,
+115,5358b8c7-d69c-4485-9420-03416564187b,female,1948.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,21514.0,alive,,1495.0,
+116,439794a8-51bd-4c70-968c-34cf26b90148,female,1941.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25369.0,alive,,1175.0,
+117,99f59583-2728-4c1d-b98c-8fbc3bb0a819,female,1936.0,,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,26494.0,alive,,386.0,
+118,8d5d69a4-7733-4dec-8ddb-64c79c2c956e,female,1933.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,26474.0,alive,,400.0,
+119,f2806652-1d7b-4c46-bb4e-ac7a2c96c68d,male,1968.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,14131.0,alive,,693.0,
+120,c5265ca6-2cb5-406d-a635-c4c783561107,male,1967.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",3.0,13770.0,dead,885.0,,14655.0
+121,500636a5-d42b-469f-98e2-fdd4dddc61a0,female,1948.0,white,not_reported,2008.0,"Clear cell adenocarcinoma, NOS",4.0,21697.0,dead,480.0,,22177.0
+122,28011111-4a01-4cdc-8d6b-7223fb2c501b,male,1958.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,20306.0,dead,313.0,305.0,20619.0
+123,136c95cd-febd-43f0-af35-125d3321a145,male,1960.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,16915.0,alive,,873.0,
+124,9ceefc7e-fba9-47eb-a0ca-2bc1fccb5490,male,1926.0,black or african american,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",3.0,26478.0,dead,1913.0,,28391.0
+125,1d176c53-6cbb-4a39-9a6f-669b4f1cb575,male,1938.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25552.0,alive,,2609.0,
+126,a46f36c3-e886-4efe-945a-0cb2e5b765ef,male,1924.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",2.0,28774.0,dead,1111.0,,29885.0
+127,692f9978-ada8-43aa-81a1-108464c81609,male,1956.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18510.0,alive,,1559.0,
+128,8c6720ef-4f85-4d22-b9bc-6745b55bf6d8,female,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26882.0,alive,,1380.0,
+129,818022ea-123e-438d-9671-542f479028f2,male,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,24510.0,dead,3554.0,2353.0,28064.0
+130,03905b58-4b13-410c-8e92-115ab2a42e80,female,1953.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",1.0,18132.0,dead,1657.0,,19789.0
+131,5dc807f2-f4f0-434b-b099-43cf41d99cbd,male,1948.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,21891.0,alive,,714.0,
+132,3972ae59-114d-4e5d-89fa-f7675da417ab,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,21208.0,alive,,1499.0,
+133,c285ada3-fd49-46a5-882f-b6c352572e2a,male,1934.0,white,not_reported,2008.0,"Clear cell adenocarcinoma, NOS",3.0,26611.0,dead,952.0,,27563.0
+134,b764e6a1-da21-4593-b133-25827c5b8d47,male,1921.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,29873.0,dead,1019.0,,30892.0
+135,d51fa004-23e6-41a7-9237-ce9916e2e394,female,1955.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,19611.0,dead,459.0,,20070.0
+136,9aa63985-16ba-4d43-a6ec-4a35f2ff6513,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20518.0,alive,,1266.0,
+137,6b79d20c-d5bc-4580-837e-b36dfd0c199c,male,1938.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",4.0,25463.0,alive,,2128.0,
+138,2ed3296a-5b10-40d8-8af4-90dc031657cd,female,1936.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",3.0,26221.0,dead,683.0,,26904.0
+139,037c691e-6320-451b-9276-78459f1b705c,female,1933.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,27253.0,dead,344.0,,27597.0
+140,98dea82b-46f9-4b77-be8a-06669bcf731b,male,1957.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19561.0,alive,,194.0,
+141,03ae8fdb-8a9c-401d-b8e3-b5ea57bad182,female,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,21852.0,alive,,665.0,
+142,3ea341e3-868a-44f5-937f-e6a93b031544,male,1948.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,21074.0,alive,,1883.0,
+143,f6cd140f-e331-41a3-8a6d-b93076458a37,female,1960.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,16140.0,alive,,2701.0,
+144,822cf6c1-dd65-4814-94b1-0c335208ad9b,male,1941.0,black or african american,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,22944.0,dead,574.0,,23518.0
+145,e4cc8898-d1d8-4f6d-b01c-04cd30f0cd8f,female,1923.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,30269.0,alive,,2504.0,
+146,d3638a1f-da14-4c78-bb53-a5cc30850cbe,male,1951.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,20470.0,alive,,1132.0,
+147,b2feca3f-8602-4a30-92bf-958ab2a2bd5d,male,1965.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,14842.0,alive,,3331.0,
+148,1cdb170b-9765-45ee-9e3e-388d0a419746,male,1932.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,25210.0,alive,,3377.0,
+149,25131445-d3cf-46af-b3c5-ca1d1e3561bb,female,1941.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,23353.0,dead,572.0,,23925.0
+150,659294b9-ded9-498a-bc00-c1d4d456aa4a,male,1956.0,asian,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,18596.0,alive,,319.0,
+151,52d73201-9333-422f-a530-5958e866a298,female,1938.0,black or african american,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",1.0,26606.0,dead,51.0,,26657.0
+152,6b0c1e54-b643-4490-927e-d5c91957d5d2,male,1943.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,23318.0,alive,,1683.0,
+153,6205c2d8-d431-4c4c-8ac6-ee407170e833,male,1966.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",2.0,15242.0,dead,946.0,,16188.0
+154,2939c03a-6f3f-4f7b-b246-34361baadeb9,female,1959.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,16121.0,dead,552.0,,16673.0
+155,0709749f-a30a-4fdd-a409-d12be09a5899,female,1921.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,31364.0,alive,,1779.0,
+156,ef2d7ef5-cdfc-48c9-b3fe-6eaf3be1106d,male,1949.0,black or african american,not hispanic or latino,2012.0,"Clear cell adenocarcinoma, NOS",4.0,21670.0,dead,1626.0,,23296.0
+157,060b2104-a015-400e-86c6-6febfb02bbd3,male,1934.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,28689.0,alive,,3.0,
+158,2d8da564-e69f-4bfa-a1d3-227a294f3886,male,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,18878.0,alive,,1924.0,
+159,73cb1350-7590-4f79-bb86-3f395466652e,male,1964.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,17045.0,dead,1003.0,417.0,18048.0
+160,8ed08632-b5b3-4be3-bd71-999456fa2d23,male,1953.0,,hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19828.0,alive,,567.0,
+161,b7994839-77a5-4725-aa58-a9e8c79dbfc2,male,1943.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,22892.0,dead,1200.0,,24092.0
+162,f38a6799-11e0-471c-834e-0d97e00aec07,female,1937.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27377.0,alive,,0.0,
+163,01277e9d-a35f-45d9-9e60-2e8cd79630a0,male,1953.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20101.0,alive,,2470.0,
+164,0487fc41-386c-4d76-9084-daf959bf5e98,male,1952.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,18898.0,alive,,2609.0,
+165,9cffe9f2-421e-4596-b3ac-8788f862ab59,female,1925.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",1.0,27152.0,dead,2764.0,,29916.0
+166,1380d4cc-8f56-4206-bfe6-8e99462fe180,male,1914.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",1.0,32290.0,dead,454.0,,32744.0
+167,03b2ac94-05a3-49a7-b68f-51d045395b07,male,1928.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,28405.0,dead,1317.0,,29722.0
+168,a1ad1a96-2b6e-4c86-9d71-e176b902e9d4,male,1968.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15376.0,alive,,1525.0,
+169,cfc999aa-802e-4a0d-8b14-be2b19fa2a17,male,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,19059.0,alive,,648.0,
+170,0d88e6ab-cf1d-4888-878b-0ac7d687c4cc,male,1958.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,17099.0,alive,,2172.0,
+171,e9847c37-0d93-47bf-b669-c7f7a1abfa88,male,1966.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,13404.0,alive,,1133.0,
+172,f6d28a1d-6691-4ac1-8afb-ab0e7dcef867,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21642.0,alive,,1329.0,
+173,fb3a387f-ebc6-4422-a782-5c19056f77f2,female,1912.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,32872.0,dead,2752.0,,35624.0
+174,d65f7f50-2cb0-45e7-866a-ba5c498aef52,female,1929.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27885.0,alive,,750.0,
+175,9c377f9b-79dd-4412-80ac-cea9a3529888,female,1938.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,24140.0,alive,,3944.0,
+176,54c9850c-9b67-42ea-a04b-16a88f786dfa,male,1945.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,23125.0,alive,,951.0,
+177,8958c2bf-b986-4c07-98d2-09dfe2375a14,male,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22879.0,alive,,1516.0,
+178,6dc3788e-570f-4f39-9951-dcc7ad51e1f2,male,1961.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,15814.0,alive,,2184.0,
+179,5db69ebe-38db-4ef3-b825-674b4a6ddaee,female,1938.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,23778.0,dead,768.0,,24546.0
+180,4c44f4a4-1529-4897-9f69-c8e6c705f905,female,1961.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17114.0,alive,,1993.0,
+181,69fb3eff-a32c-48e1-aab8-645ef31d163a,male,1934.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26489.0,alive,,2270.0,
+182,a55e63a9-5046-4f0f-a1e1-197b783d5387,female,1919.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,31615.0,alive,,1485.0,
+183,ba96288c-60d3-4e56-8940-90c5b22d4ddc,female,1951.0,white,not_reported,2004.0,"Clear cell adenocarcinoma, NOS",3.0,18898.0,dead,992.0,,19890.0
+184,9816ac2a-0412-4649-a9da-8fd91b1eb8e1,male,1959.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,17540.0,alive,,1489.0,
+185,7ac1d6c6-9ade-49af-8794-10b5b96b2b05,male,1939.0,,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,24315.0,alive,,1436.0,
+186,39867756-0ef0-4408-a0e1-c85ae7adb8ee,male,1950.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,19022.0,dead,2454.0,,21476.0
+187,616bc43c-34b9-48e8-8219-4ef4d052f91b,male,1927.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",3.0,29921.0,dead,245.0,,30166.0
+188,74844571-c5a3-4a14-ac19-c7c1ce40259b,male,1936.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26186.0,alive,,2172.0,
+189,16559faa-8103-4973-a47d-3435443e8ec1,male,1983.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,9714.0,alive,,370.0,
+190,ea26d89f-2843-489b-8627-3d5ed0cabc2a,male,1954.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,18775.0,alive,,2067.0,
+191,80c4fc5b-dc7d-4308-8c81-6e83625963b5,male,1927.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,28701.0,alive,,2080.0,
+192,7b184674-c88e-4479-be18-b403af5cc2c5,female,1961.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,15799.0,alive,,1462.0,
+193,aebe37c4-5b37-41f3-ade3-46e41bad8eab,female,1965.0,asian,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,15041.0,alive,,1124.0,
+194,3280a078-8841-4c5c-a361-b58bc37b965c,female,1943.0,black or african american,not_reported,,"Renal cell carcinoma, NOS",2.0,25243.0,alive,,256.0,
+195,3f0a2571-c088-4735-8152-61f6fd60ac63,female,1958.0,black or african american,not hispanic or latino,2012.0,"Clear cell adenocarcinoma, NOS",4.0,20029.0,dead,242.0,,20271.0
+196,18524601-30d9-4dc6-a345-cbdb33349521,female,1925.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,28467.0,dead,885.0,,29352.0
+197,12c4c4f1-5880-4bf9-9945-80bf45415de6,male,1948.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,20931.0,alive,,1493.0,
+198,2e81cfda-5080-49b8-95ca-ba3963dae30c,male,1959.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,17285.0,alive,,1137.0,
+199,5722df9f-5631-476d-a11b-b3c1e9a40fbf,male,1940.0,,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,24669.0,alive,,685.0,
+200,07aa333c-8bfb-4bdd-ad86-912c099ca0a9,female,1945.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23976.0,alive,,16.0,
+201,cdfa3c5d-2fe8-4dfd-92c2-a54f39f55f18,female,1950.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,20410.0,dead,1661.0,,22071.0
+202,fe1f95a3-a6c2-4a39-8586-f8a70e975dd4,male,1971.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",,15037.0,alive,,591.0,
+203,b9fc9eff-1228-482d-87a2-ebbb5c92733a,male,1928.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,29207.0,alive,,967.0,
+204,2309c424-26fa-4cc6-a22a-2dc0f989af59,male,1963.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,15601.0,dead,646.0,646.0,16247.0
+205,e7afc830-fa22-4562-a1f3-0f4f5a34eacd,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,20764.0,alive,,1218.0,
+206,ee7011e7-f692-410a-ba35-efe1ec75cf8e,male,1965.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,15562.0,alive,,910.0,
+207,24c1cf70-bd67-431e-a623-d20f8d3f52b2,male,1963.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,15197.0,alive,,2014.0,
+208,f11f68ac-5ad2-416b-a0c2-697ac3e9718a,female,1938.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,24477.0,alive,,1793.0,
+209,d7abeadd-ca92-4e18-ae06-70baf9ce42e0,male,1923.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,30676.0,alive,,1217.0,
+210,64aa0dd1-a80e-401e-96df-60d121d2cbec,male,1950.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,20881.0,alive,,1291.0,
+211,fedcaa7b-ec9d-4bae-a8ac-af10fbf3e568,female,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22607.0,alive,,1552.0,
+212,267ff78b-bceb-466e-8582-c560fe227ff0,male,1941.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,23379.0,dead,93.0,,23472.0
+213,ce0ab696-4e50-4b05-a7e5-5191c257bfbe,female,1931.0,white,not_reported,2009.0,"Clear cell adenocarcinoma, NOS",3.0,27676.0,dead,1097.0,,28773.0
+214,11ab53c8-6366-4bc9-b60d-23e6ed2d1cae,male,1943.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,23528.0,alive,,735.0,
+215,eee108d6-bb11-4369-b776-0f524afef6f3,male,1920.0,white,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",1.0,30900.0,dead,2190.0,,33090.0
+216,52db2d93-fcc6-4f80-9668-a0a6ea450738,female,1963.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,17952.0,alive,,689.0,
+217,fdfaf862-46a4-4792-8487-810c6d1f9093,female,1942.0,black or african american,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22239.0,alive,,1888.0,
+218,414056a2-b1dc-4741-b9b9-fda306da6ad6,female,1923.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",1.0,29380.0,dead,1639.0,,31019.0
+219,4d856b5d-a59b-45f2-a9b2-4d43ec8a20e4,male,1943.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22825.0,alive,,2688.0,
+220,d7cf4fc0-6357-4973-af4c-b456f430478a,male,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17557.0,alive,,1168.0,
+221,fb9bafa5-7133-4955-8156-4eb6763dc8e1,female,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22320.0,alive,,2150.0,
+222,44130745-0b09-4201-829f-cc634f462d3b,male,1953.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",2.0,18133.0,dead,1371.0,,19504.0
+223,c499b3be-9db0-4809-b7c0-f5d81208d7ec,male,1929.0,white,not_reported,2004.0,"Clear cell adenocarcinoma, NOS",1.0,27436.0,dead,62.0,,27498.0
+224,9f632fc3-2241-469a-a14a-cd537350155f,female,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17621.0,alive,,2274.0,
+225,70820391-13b4-438f-ba4a-c0804d4c2d76,male,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",,19242.0,alive,,166.0,
+226,57578a0d-b719-46e7-83ab-872a4e984dbb,male,1953.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,17792.0,dead,1417.0,,19209.0
+227,63dd7202-2ba3-41bb-8d05-8a7b4f34c7d1,female,1938.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,24603.0,alive,,1854.0,
+228,0a93c52e-7e96-406b-b40d-b2925ba4ebd1,female,1937.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26232.0,alive,,369.0,
+229,46d34d0c-b8a2-4ebd-b9a0-5485904ecafa,male,1933.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,26604.0,alive,,3519.0,
+230,62cf9546-b932-4a5e-bc9b-4103506d296d,female,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23746.0,alive,,4537.0,
+231,949736aa-62d3-46e0-8507-ed2a84be0073,male,1954.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,20176.0,dead,139.0,,20315.0
+232,fd5728e0-e495-45f5-aac8-c0856510c8aa,female,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,21271.0,alive,,2531.0,
+233,f9e6afeb-cf13-4dd7-8a1f-571ab610df4f,male,1946.0,white,not_reported,2008.0,"Clear cell adenocarcinoma, NOS",1.0,22415.0,dead,375.0,,22790.0
+234,e45166cb-5150-4961-9e13-6891f02c1606,male,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,17396.0,alive,,1450.0,
+235,d26f3a6b-72f4-4e48-815e-57b8b211112d,male,1928.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28438.0,alive,,3631.0,
+236,7d35b1e4-8dcf-4caa-adce-e4b72a2a10ca,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20493.0,alive,,963.0,
+237,cba5705a-80dd-4496-9283-c5d3a92c7dba,female,1968.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15063.0,alive,,511.0,
+238,1e417b93-837d-4110-9090-239eb82c3e20,male,1966.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14651.0,alive,,1746.0,
+239,4fca10bd-988a-47f9-8ed5-037c0d59d70c,male,1955.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,18843.0,alive,,1186.0,
+240,1b0ad45e-b917-4e91-83c4-e5386cdf0eee,female,1931.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",3.0,27019.0,dead,1724.0,,28743.0
+241,f217a4f9-d8d8-440e-b73a-5f0448b58c4f,male,1953.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19999.0,alive,,406.0,
+242,0022478c-4dfd-4cbe-a05e-fb20310844e3,male,1953.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",1.0,19677.0,dead,563.0,,20240.0
+243,6a7a0f51-336a-445d-8a05-8b8811894037,female,1939.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,24232.0,dead,238.0,,24470.0
+244,73c712fe-54d6-4743-90bb-03313eb9fa77,female,1940.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",1.0,23656.0,dead,139.0,,23795.0
+245,597c81a3-5820-48b0-9a9c-c45257c7ad70,male,1936.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27183.0,alive,,755.0,
+246,8942ebfa-946a-41a7-8b4c-ce45a2096c81,male,1933.0,white,not hispanic or latino,2001.0,"Clear cell adenocarcinoma, NOS",3.0,25018.0,dead,18.0,18.0,25036.0
+247,467bf226-a646-4217-bce6-8d0f11c756eb,male,1949.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,21164.0,alive,,2422.0,
+248,62613d1d-978f-4b9d-a9c6-ae28ab384e57,female,1939.0,asian,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,24558.0,alive,,1413.0,
+249,aa2b6825-3352-4d47-a637-48452f4a958b,female,1955.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21375.0,alive,,700.0,
+250,ffb88267-1a97-41c9-ae25-6c6cefaf9dd9,male,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22285.0,alive,,1011.0,
+251,5c73b91a-2bee-4388-854c-1c3a6ae732db,male,1958.0,asian,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,17997.0,alive,,932.0,
+252,d97ac1d1-fc06-4e9b-b3ad-415582ff66f1,male,1966.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14710.0,alive,,1433.0,
+253,9f4cd3b9-50ef-4f85-84b8-acb0b77887d1,male,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22561.0,alive,,2231.0,
+254,2dde6b93-11a8-424f-9b54-b1a81cd26895,male,1962.0,white,not_reported,2007.0,"Clear cell adenocarcinoma, NOS",1.0,15358.0,dead,1343.0,,16701.0
+255,b3a6acab-00ad-48b7-94c2-bd56b461b48f,female,1950.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,19849.0,alive,,3328.0,
+256,c1b46fd8-1221-4641-a323-84bfb444a45f,female,1926.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,29124.0,alive,,3341.0,
+257,2efcefca-5e52-4b3d-a48a-9e9c73cc0141,male,1937.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,24876.0,dead,1404.0,,26280.0
+258,22b6724c-a59f-4796-8166-992253e8caf1,male,1936.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,25699.0,alive,,1130.0,
+259,e9faa588-d45a-450a-81a2-949eb2834bc0,male,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,25486.0,alive,,1789.0,
+260,9dc7812b-c7a2-4de4-bf6d-4c7261384a62,male,1957.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17920.0,alive,,617.0,
+261,e548aeb2-04ca-48f8-af8d-8acb745748fc,male,1962.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,16793.0,alive,,1140.0,
+262,5b66c4ae-3aed-4212-baa1-dac33bab8ebe,male,1928.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",4.0,27417.0,dead,42.0,,27459.0
+263,eda2b871-8a18-4854-92d8-d8d66fb127d8,female,1940.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25786.0,alive,,777.0,
+264,3b2b492b-94af-4540-b283-3b9ef98d5b2f,male,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,16442.0,alive,,3205.0,
+265,46240f32-116b-470c-9846-3616a6db4f2e,male,1955.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18954.0,dead,1696.0,1070.0,20650.0
+266,9fb55e0b-43d8-40a3-8ef2-d198e6290551,male,1938.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24569.0,alive,,1120.0,
+267,9da334ed-314c-4445-ba29-ffd9bb42403c,male,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22653.0,alive,,3728.0,
+268,10c03d66-a290-4e46-9018-2932a236eb09,male,1946.0,black or african american,not_reported,2007.0,"Clear cell adenocarcinoma, NOS",1.0,21556.0,dead,735.0,735.0,22291.0
+269,58dee518-f105-4620-996e-3fb6177aa493,male,1942.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,22488.0,dead,1238.0,,23726.0
+270,d3b47e53-6f40-4fc8-b5a4-cbe548a770a9,female,1945.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,25043.0,alive,,362.0,
+271,fae200ed-78e7-4d2d-82b5-aee63fc54d25,male,1964.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,15451.0,alive,,1014.0,
+272,73512f9d-c6e4-446f-8e31-666c6af44da5,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20635.0,alive,,1485.0,
+273,b123e7c1-2472-4427-bfeb-79666f971e66,female,1940.0,black or african american,hispanic or latino,,"Renal cell carcinoma, NOS",1.0,26649.0,alive,,498.0,
+274,dc2208d9-dcb3-47ff-826b-676f199b8ccd,male,1949.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,21382.0,alive,,118.0,
+275,61c75ffb-9d5d-478e-af48-1808e700aceb,male,1955.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,18178.0,alive,,3480.0,
+276,8d02978a-10cb-4bbf-8980-78aebe70bcd1,male,1928.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,29168.0,alive,,1385.0,
+277,0a6a375b-3b61-453f-a64a-db3d49352949,female,1965.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14598.0,alive,,3744.0,
+278,936c217f-f10b-43cf-bb6d-0a74ebec9b13,female,1953.0,black or african american,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,20310.0,dead,727.0,,21037.0
+279,d9208e7b-0b47-43ff-a4e8-d4e591e286c4,male,1966.0,white,not_reported,2008.0,"Clear cell adenocarcinoma, NOS",4.0,14973.0,dead,1034.0,,16007.0
+280,dfd2c288-5054-4fc1-9cae-f437779dc2de,male,1957.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18486.0,alive,,2630.0,
+281,c0e26587-3191-4396-a20b-da9e7de213f4,male,1924.0,white,not_reported,2009.0,"Clear cell adenocarcinoma, NOS",2.0,29032.0,dead,2256.0,,31288.0
+282,08c1bb22-81f5-4a6d-98ce-f9c31d896eab,male,1935.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26464.0,alive,,2217.0,
+283,d9f1bb02-4cb0-4f7c-8f34-ff5f301c6b2c,male,1928.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,27119.0,alive,,2746.0,
+284,942c0088-c9a0-428c-a879-e16f8c5bfdb8,male,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,17367.0,alive,,3205.0,
+285,7e620e32-54c5-4f5b-9e18-211516a3eb41,male,1964.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,17722.0,alive,,150.0,
+286,c5bf474c-6919-47b4-ba59-34ab20c087d5,female,1938.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26559.0,alive,,1169.0,
+287,08a8eec3-c97a-4493-a7de-b2a686b4df67,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,21793.0,alive,,992.0,
+288,18bcef21-1eee-4b9f-9345-b2f5799b49ab,female,1957.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,16844.0,dead,578.0,,17422.0
+289,0c139772-e303-45d1-b0c7-438fa1db105e,male,1948.0,,not_reported,2008.0,"Clear cell adenocarcinoma, NOS",1.0,21183.0,dead,1191.0,,22374.0
+290,52e9daf0-288b-4220-bd44-0b6147fd951c,male,1959.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,17821.0,alive,,1143.0,
+291,2429c7d4-ae27-432d-9adf-1c6d192bf13c,female,1926.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,29497.0,alive,,1471.0,
+292,4edff57f-4b0e-4770-beac-590da7d7232c,female,1950.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,19919.0,dead,224.0,,20143.0
+293,f964511a-09ed-4a56-a477-0ab1cf067275,female,1942.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23051.0,alive,,1946.0,
+294,5ec1ec7b-9ef3-45fc-98a6-0202d15050fe,female,1934.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",2.0,24853.0,dead,510.0,,25363.0
+295,514af471-31d2-43fa-88dc-8639a5e97181,female,1936.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,24988.0,alive,,2722.0,
+296,a43401ae-14cd-4f57-946b-9a9c073f2a47,female,1946.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,21592.0,alive,,2439.0,
+297,28e9b6f9-ab6a-400b-a6a9-79095a443591,male,1922.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,30862.0,alive,,874.0,
+298,8fd493c5-1375-4f76-b337-c9a75e3abdbe,female,1956.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,17882.0,dead,336.0,,18218.0
+299,c22d25c2-b836-4b91-8f4f-2062be002232,female,1950.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,20369.0,alive,,1843.0,
+300,06197e26-3cb0-4bd0-a6e8-dd9af5047c6a,female,1958.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,17110.0,dead,431.0,,17541.0
+301,04004bc7-cc5c-4683-b334-3e14a7c2f384,male,1947.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,21088.0,dead,320.0,,21408.0
+302,6e9e5e05-2bf8-4724-8e31-241f517289de,male,1933.0,white,not_reported,2009.0,"Clear cell adenocarcinoma, NOS",4.0,26070.0,dead,1912.0,,27982.0
+303,f48fc7d5-ca35-4fdf-8150-0ce34f0f6b3e,female,1961.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,16757.0,dead,1173.0,,17930.0
+304,bcbab8ce-abf1-4029-9419-6b1c671d41df,male,1930.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,27225.0,dead,110.0,,27335.0
+305,e7bbc8a9-b63b-4967-812b-f9280a5e181e,male,1944.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,21901.0,alive,,2718.0,
+306,6b033bf5-4ad9-419f-9d2c-63e2e8c80066,female,1946.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22649.0,dead,1091.0,474.0,23740.0
+307,4481ca64-d37c-462d-9403-6b3339728e0c,female,1943.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,24475.0,alive,,119.0,
+308,07f596f7-8227-47d3-8e95-2e0b86f44f2b,male,1968.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14226.0,alive,,1531.0,
+309,f2fca062-ca87-4089-916d-49b9ff146797,male,1946.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,21701.0,dead,1567.0,,23268.0
+310,73fc6ae6-7c5e-44de-a9a0-17292cbb01cc,female,1941.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22693.0,alive,,2226.0,
+311,88c91a7b-5c41-4361-85d0-da759ab94204,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,18444.0,alive,,3989.0,
+312,9245a557-01ea-4446-b9e9-313f6ab18834,male,1939.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24850.0,alive,,1371.0,
+313,8d4b602b-d1a4-4d80-adf4-5f527de78d4b,female,1934.0,white,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",3.0,27899.0,dead,202.0,,28101.0
+314,c129b63f-90cb-40dc-beed-757634004821,male,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23373.0,alive,,1834.0,
+315,ab5266f6-8015-4347-b0bd-131ab1fbad51,female,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22409.0,alive,,7.0,
+316,3c5f27e9-db2f-4963-9240-94815808d32f,male,1947.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21337.0,alive,,2865.0,
+317,75801b19-6569-4345-8134-82344a412c21,male,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,20910.0,alive,,1778.0,
+318,4c325ee1-9b8e-45d4-a0a7-e47ec1eac402,male,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,22244.0,alive,,3736.0,
+319,6b1ff32f-75a4-44aa-9da4-b6872e179c9f,female,1942.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,23929.0,dead,927.0,,24856.0
+320,44143697-c4b3-4051-9594-d53131c05889,male,1964.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,14824.0,alive,,2208.0,
+321,d30f460b-8e85-4eb4-83b8-0a5d8bf4d10d,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,21256.0,alive,,1355.0,
+322,c33d0d12-a744-4a9a-b3f7-e28da6a109ab,female,1947.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23998.0,alive,,0.0,
+323,a22d5ba2-5f11-49e9-911a-ec03b785fae5,male,1936.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,27031.0,alive,,762.0,
+324,e04bd954-b207-481d-84fd-6c4f8d070e8a,female,1925.0,white,not_reported,2007.0,"Clear cell adenocarcinoma, NOS",1.0,29150.0,dead,1270.0,,30420.0
+325,59f49821-412c-4945-b9e2-be0dcc8bf8bf,female,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22341.0,alive,,141.0,
+326,09d7ce7a-774e-4784-9c9a-32b766fdb173,male,1952.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",2.0,22071.0,alive,,528.0,
+327,960d1eaf-0b96-488b-b62c-829c024fd4b8,male,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18954.0,alive,,3987.0,
+328,19cd6d5b-0de3-4afd-9ecf-6f80c9977dc0,male,1929.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,27857.0,alive,,205.0,
+329,77d8c2cf-6b27-417b-9d43-14c95e6f9b85,male,1941.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,23097.0,dead,204.0,,23301.0
+330,5338d435-68fb-4f0d-a3e6-c843f703f75f,male,1941.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,23437.0,alive,,3451.0,
+331,9c8169e7-9193-41f5-878e-ed1af3b95422,male,1935.0,white,not_reported,2009.0,"Clear cell adenocarcinoma, NOS",1.0,26576.0,dead,828.0,,27404.0
+332,3fa6c93e-e7fe-402c-9526-c81411aa0920,male,1930.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,26858.0,dead,679.0,,27537.0
+333,0bbfeec1-fbae-4c92-ae90-60ba39303bd8,female,1972.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,12431.0,alive,,1385.0,
+334,b5f51cf6-1013-4d4b-aff1-4b7e8f6afd9c,male,1946.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,22324.0,alive,,840.0,
+335,e4da964a-31da-4b81-b6ee-2c6dcee703ea,male,1953.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19456.0,alive,,1106.0,
+336,aba26e6b-f11c-4ae6-a0d6-85bdd2060e8f,female,1968.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14642.0,alive,,2004.0,
+337,d1e4f4c0-08cc-4012-9372-9ab987d80dab,male,1947.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",3.0,21524.0,dead,841.0,841.0,22365.0
+338,74fc9f65-b5f1-4b56-93a5-f90eaab52e31,male,1942.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",1.0,23034.0,dead,1045.0,,24079.0
+339,f2b93fbd-5848-46e2-978e-ba84e810e0dc,male,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19905.0,alive,,1906.0,
+340,83bdd67b-3dfd-458b-aaa1-5a0b051056e8,female,1931.0,white,hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,26596.0,dead,2343.0,,28939.0
+341,e719b7f3-27c4-4017-9d34-a660776c2cd7,male,1937.0,white,not_reported,2010.0,"Clear cell adenocarcinoma, NOS",3.0,25842.0,dead,1133.0,,26975.0
+342,382291d3-6f93-4150-ae13-3d5951a39333,male,1929.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,28934.0,alive,,204.0,
+343,9ecdde9c-2179-4830-bd10-c4fa40f26066,female,1941.0,asian,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,23001.0,alive,,374.0,
+344,9256867c-dc82-4e1a-85d6-e4c9bde8ab8c,male,1942.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",3.0,25429.0,alive,,830.0,
+345,74749fe8-f5d0-4d0d-8c7a-e56eba6503b3,male,1943.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,23150.0,dead,561.0,,23711.0
+346,89ea18fc-45ec-4e5c-969a-db2112dceefd,male,1967.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15898.0,alive,,737.0,
+347,3b064b7e-c3cf-4fc3-844e-301a51737e35,female,1943.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23216.0,alive,,1794.0,
+348,d4815225-0ac0-4295-a70d-74162066c0bd,male,1926.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,28930.0,alive,,945.0,
+349,d6625c4d-cd1c-4c62-8100-e8b2a49ce3ad,male,1948.0,white,not_reported,2006.0,"Clear cell adenocarcinoma, NOS",4.0,21310.0,dead,211.0,,21521.0
+350,96c38b74-c22b-4001-bfd0-a37eda1fbaed,female,1955.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,20918.0,alive,,468.0,
+351,dc43cfe0-8880-419f-946c-c0ad586e57ca,female,1946.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,21842.0,alive,,1787.0,
+352,3c4ed50e-d00e-4ffe-b426-41dfdcb7327a,male,1934.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,25300.0,alive,,13.0,
+353,315b6dea-02c6-44dc-9788-a72f78fae815,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20597.0,alive,,1165.0,
+354,3f93d1cf-a307-4e29-9e6f-239e9ffaa179,male,1931.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26909.0,alive,,3146.0,
+355,5daf4808-0393-4791-9927-742c30a20831,male,1969.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,14551.0,alive,,408.0,
+356,e33dff22-5bf1-4dd8-bed7-063cb555677c,male,1944.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,22034.0,dead,1980.0,,24014.0
+357,04beccb3-f513-4d60-b57f-a4382e4eeda3,female,1953.0,black or african american,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,21994.0,alive,,431.0,
+358,fa543627-9e3c-4af9-bb33-f0cdd9fbc9cc,male,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,17859.0,alive,,2868.0,
+359,9d202594-7697-443f-a1ee-d8e7b28ecb8f,male,1953.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,18843.0,dead,69.0,,18912.0
+360,09c4ea05-928d-49b7-b7fb-30cff3481b14,male,1929.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",3.0,27352.0,dead,164.0,,27516.0
+361,e7c159b7-e7c3-4482-8e80-72402dc3fdb4,female,1942.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,21980.0,alive,,2839.0,
+362,6ccabcd0-8f30-4828-851f-0ac7cee1a33f,male,1927.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,27699.0,dead,845.0,845.0,28544.0
+363,ed97aeee-2a5b-4361-ab4f-f53c3fc5f532,female,1938.0,white,not_reported,2004.0,"Clear cell adenocarcinoma, NOS",4.0,23860.0,dead,475.0,,24335.0
+364,b6abbdcc-f826-499d-b6f1-f6e2c83f9d8b,male,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,19352.0,alive,,1274.0,
+365,5cf9d9fe-2823-4577-a150-27b970f38a5d,male,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21281.0,alive,,2508.0,
+366,a7ddd737-714d-423f-8fb5-5a932d014487,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,20392.0,alive,,2873.0,
+367,3dd36758-04ad-4ba4-bf17-707649d6f1a0,male,1954.0,white,not hispanic or latino,2002.0,"Clear cell adenocarcinoma, NOS",3.0,17402.0,dead,478.0,,17880.0
+368,e173c4ba-9c08-4ce6-b46c-1673b5af9e2d,male,1966.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,14675.0,alive,,1487.0,
+369,3f72d63f-ad48-4500-baf6-897b1d6dda7d,male,1930.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,28095.0,dead,1337.0,,29432.0
+370,86f68b7d-30f9-4f01-a9ea-5db1fcd00453,male,1923.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,30191.0,alive,,774.0,
+371,9fd9104b-a26d-44c7-bb45-f1edd76d0aa0,male,1953.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,18905.0,dead,1075.0,,19980.0
+372,781acafa-a58b-4180-bbca-c5b675d51b17,male,1927.0,white,not_reported,2006.0,"Clear cell adenocarcinoma, NOS",1.0,27692.0,dead,1463.0,,29155.0
+373,6ab00314-5228-43ba-9880-9d5177b64c61,male,1938.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,24096.0,dead,2299.0,,26395.0
+374,ab954d5e-a19b-457a-b5b9-172afd6f9abe,female,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22462.0,alive,,722.0,
+375,759238f2-0d37-404e-96f1-c26cae0ba2ea,female,1926.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",2.0,28552.0,dead,1121.0,,29673.0
+376,766999d7-fa28-415b-8783-be62b1b2fd70,male,1945.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,23863.0,alive,,26.0,
+377,17d053f2-8760-4f8e-9d25-64508e7f3857,male,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26490.0,alive,,2087.0,
+378,f06bdea2-4528-4a14-9cea-280af6b4c702,male,1966.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,14343.0,dead,2105.0,1943.0,16448.0
+379,2913faf2-d722-4993-8e9a-3c4cc1f5d82b,female,1927.0,white,not_reported,2003.0,"Clear cell adenocarcinoma, NOS",3.0,27906.0,dead,2.0,,27908.0
+380,ec6aa756-c875-49f5-89e4-365b3f18b589,male,1959.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,16992.0,alive,,1871.0,
+381,e4769374-7d4d-4aaf-b6fe-a01da59ee713,female,1921.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,30190.0,dead,2386.0,,32576.0
+382,4298ccdb-2e6d-4267-822d-75b021364084,female,1935.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,27396.0,alive,,1755.0,
+383,479035f0-649e-4396-b023-1649a23a01f1,female,1926.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",3.0,29219.0,dead,362.0,,29581.0
+384,513a4de3-427d-4823-8644-b6faf69a137f,female,1931.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,27561.0,alive,,1666.0,
+385,c01afa58-af3f-40f1-b4fe-36909ae3871e,male,1962.0,asian,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,16228.0,alive,,433.0,
+386,d62d39f9-c896-4758-a785-e236f0154f14,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,23008.0,alive,,36.0,
+387,4519a839-11ea-4628-b5a7-071833ad16de,female,1938.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25470.0,alive,,1373.0,
+388,d0f908c5-aafd-4b76-a2fb-39b7cc19bcf7,female,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,25115.0,alive,,365.0,
+389,1e758394-67fb-45cb-98b0-5082c396d697,male,1924.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",4.0,28948.0,dead,307.0,,29255.0
+390,9490cd1e-be30-45d3-b1ea-42c157d5f49d,female,1926.0,white,not_reported,2008.0,"Clear cell adenocarcinoma, NOS",1.0,28727.0,dead,1590.0,,30317.0
+391,beef6a78-a57c-46f1-8f4e-6899f0ba2c6d,female,1941.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,23310.0,alive,,3639.0,
+392,4978eb8d-4a38-470b-9a00-6dd3aada1aa9,male,1960.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,15891.0,alive,,2859.0,
+393,b7143068-4afd-47ed-9e08-1894f886c503,male,1940.0,white,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",3.0,25428.0,dead,587.0,,26015.0
+394,4467ae73-499a-4af0-8431-e059d6ed21a5,male,1926.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28359.0,dead,3615.0,1855.0,31974.0
+395,305eaef4-4644-46e3-a696-d2e4a972f691,female,1936.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",1.0,25709.0,dead,166.0,,25875.0
+396,b10eb61b-50b8-4df5-8c46-386a1b58c6a6,male,1960.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17077.0,alive,,3271.0,
+397,36ed3269-0a57-4c50-bbfa-cfd2a7b56d4f,male,1955.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,18754.0,alive,,1478.0,
+398,d5213422-9447-4f62-b486-3303e3f991fa,male,1949.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,20718.0,dead,1432.0,,22150.0
+399,0df9ec46-d600-4845-9d00-2dc2732c68d1,female,1936.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,28107.0,alive,,61.0,
+400,a5d34ea3-9362-4233-8d9e-1892839179b2,male,1933.0,white,not_reported,2007.0,"Clear cell adenocarcinoma, NOS",,27335.0,dead,334.0,,27669.0
+401,df1e2e79-0126-4f3a-85e3-36f59be04622,female,1966.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17331.0,alive,,356.0,
+402,b7719c71-de18-4a4d-99ef-67b788c6f77c,male,1956.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17620.0,alive,,1416.0,
+403,620baefa-db8f-4af9-9101-4b9b252fa73e,male,1944.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,24916.0,alive,,607.0,
+404,df3b1215-58fd-49c7-8f99-3a854d6cc667,female,1937.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,26659.0,dead,77.0,,26736.0
+405,a2663a86-a006-4867-9e88-2b523df48303,male,1951.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,22627.0,alive,,469.0,
+406,123b1a31-3635-4e90-b714-0c20df64cf0d,male,1937.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,26582.0,dead,106.0,,26688.0
+407,38469030-8539-4c76-b53b-57073569501c,female,1933.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,27162.0,alive,,620.0,
+408,2bc5b2ec-aa8f-4889-9d92-d27f96c9fda1,female,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19964.0,alive,,1621.0,
+409,ec3b2a30-fcf6-45ef-bd9d-e6089a237c0f,female,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,22036.0,alive,,3302.0,
+410,fdda296a-7321-4c8c-8076-40d92c570c8f,female,1956.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,17853.0,alive,,3409.0,
+411,c04c5ac6-5b44-4e47-bf52-e4d92d76eea5,male,1965.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,15250.0,alive,,1886.0,
+412,d4098753-2e83-42c1-a06b-c03f7700e70c,male,1933.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27547.0,alive,,749.0,
+413,dfa9513d-4e09-405b-a80f-2987ec5c5263,female,1936.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",4.0,24132.0,dead,709.0,,24841.0
+414,2f38a984-c359-4d20-b23d-dca2d82f0270,female,1957.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,18348.0,alive,,693.0,
+415,4100b960-7963-4a1e-ba24-0a6526387e06,male,1943.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22020.0,alive,,3222.0,
+416,33cf0893-0411-4758-aa90-602bfedf0850,male,1966.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,15360.0,alive,,211.0,
+417,a8db1341-a7fc-4306-91ad-5caaca5c8a6e,male,1945.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22623.0,alive,,1657.0,
+418,c4247ccb-8201-428e-a2e7-b5104f095588,male,1963.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,15790.0,alive,,2789.0,
+419,68a1a23a-e762-440b-859e-2bebb42d0d59,male,1955.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20246.0,alive,,206.0,
+420,33cd8b05-2b9b-40dd-97a2-40d02e27ee90,female,1937.0,white,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",4.0,25508.0,dead,1714.0,,27222.0
+421,8a575e00-5dc5-416d-a8f5-2cdfb8e62c31,female,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21087.0,alive,,1307.0,
+422,171044a9-9e8e-419b-af3a-4849d92c3b1e,male,1955.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,19932.0,alive,,1782.0,
+423,540cbfa7-d17d-44f5-b67e-f2b9b03827cd,female,1963.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,18028.0,alive,,519.0,
+424,31e9d2fc-79fa-49db-adac-7afb9609f915,male,1940.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",1.0,23129.0,dead,1378.0,,24507.0
+425,8f8a632d-7fbd-4c86-b909-afb7edb9ad28,male,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,23915.0,alive,,2461.0,
+426,a8e0f80a-7049-4b5a-af21-cb6421286271,female,1955.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,18662.0,alive,,970.0,
+427,f2801b21-5444-4cc3-a642-c60c6d82cd3d,male,1943.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,23083.0,dead,722.0,,23805.0
+428,4ee14e95-09d8-4512-b358-3e0e7cb74c9a,male,1944.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,22220.0,dead,313.0,,22533.0
+429,8e9e684c-20e5-48b1-9e40-970037fe959f,male,1931.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,27911.0,alive,,662.0,
+430,31201e73-a922-4acd-b859-fa2f9ba0af93,male,1943.0,white,not_reported,2005.0,"Clear cell adenocarcinoma, NOS",4.0,22771.0,dead,162.0,,22933.0
+431,ff9328d5-d604-4276-866c-2d44ef3b2403,male,1941.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,23609.0,alive,,1955.0,
+432,0bd313f0-0b6d-4bf3-aae2-6496d71d6d3a,male,1950.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",3.0,19892.0,dead,883.0,,20775.0
+433,db058eb4-9c5e-4226-92d1-de24aea83630,female,1956.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17177.0,alive,,4074.0,
+434,7aece0e0-e57b-40b9-8ef3-8b98624b0e91,female,1972.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14113.0,alive,,505.0,
+435,3be0bc1d-d81f-4769-b650-8cc8858e45db,female,1945.0,black or african american,not hispanic or latino,2002.0,"Clear cell adenocarcinoma, NOS",1.0,19620.0,dead,1584.0,,21204.0
+436,fc7065fc-d834-4e7d-98bd-ca6666beb6cb,male,1951.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22637.0,alive,,507.0,
+437,c7e9ba09-0826-466c-8555-6595de31ed31,female,1945.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21988.0,alive,,1559.0,
+438,ea456a1f-6e2c-4b34-ad24-ccd614bd57c9,male,1962.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,18612.0,alive,,53.0,
+439,2375ef64-8212-4ad4-97e8-bfa6d1db430f,male,1929.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,28380.0,alive,,1632.0,
+440,aa82fb26-96c3-4b3d-a2e9-7123c0a07321,male,1965.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,16779.0,alive,,11.0,
+441,e9f855b3-291b-449d-9758-caa0f99fa76d,male,1973.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,12219.0,dead,222.0,,12441.0
+442,11111b58-c7df-4291-ad8a-4baec9ff7d1f,male,1937.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,26060.0,dead,480.0,,26540.0
+443,46c87ae0-c123-4bdc-8a79-d375d8a7e7a3,male,1954.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19324.0,alive,,861.0,
+444,a5790b81-5001-4d1a-97ad-0ec9fc658f44,male,1941.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,24438.0,alive,,501.0,
+445,ac30d54e-f7e3-4185-ab99-89adceff3e69,male,1954.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,18224.0,dead,2090.0,,20314.0
+446,4fd166d4-0b77-4815-ae6a-2165522f8251,female,1933.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,26475.0,alive,,1759.0,
+447,3cfe743c-f02e-42bf-a170-9d8b8a514d10,male,1954.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19383.0,alive,,1126.0,
+448,b15f495d-8598-4404-86b0-519df0f2d504,male,1953.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19143.0,alive,,411.0,
+449,cdd8eb5c-bda8-4961-9db4-72e0c4907e95,male,1959.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,17461.0,alive,,1384.0,
+450,4ca5ff6a-ace1-4349-b269-b8e3aae16785,female,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27538.0,alive,,1043.0,
+451,1bc2ad71-fb9d-4012-bfe7-c39e215a51eb,female,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23408.0,alive,,16.0,
+452,50f29fc7-c111-4101-b970-b1e1dd3388cf,female,1953.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,19138.0,alive,,1508.0,
+453,4e3334e2-918f-4005-bb5a-12a67c7c0380,male,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28184.0,alive,,1790.0,
+454,53dede5a-4423-4da5-bc1e-e5e98b011e36,female,1919.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,31096.0,alive,,2259.0,
+455,d232f22d-a3e7-41c8-97e1-205de2b488aa,female,1948.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",3.0,21059.0,dead,819.0,,21878.0
+456,820ddb1a-fb51-42e9-8d33-3ebe28d5af93,male,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18862.0,alive,,326.0,
+457,b3a9b0be-2ccb-4e55-b72c-3f218ca46a3e,male,1947.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,21255.0,alive,,1785.0,
+458,5f0f03c2-4a39-48c4-a41d-c2990c422741,male,1943.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,23985.0,dead,43.0,,24028.0
+459,740e8238-8633-422a-a94a-83bbd37c6d77,male,1926.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28745.0,alive,,1889.0,
+460,897f85ec-7e14-426a-a532-eed01ccc90f1,male,1937.0,white,not_reported,2005.0,"Clear cell adenocarcinoma, NOS",1.0,25118.0,dead,137.0,,25255.0
+461,ae55b2d3-62a1-419e-9f9a-5ddfac356db4,male,1970.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14612.0,alive,,1608.0,
+462,b39d6675-9378-4652-8a28-9b52b8ca88ce,female,1952.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21572.0,alive,,3.0,
+463,1d37becb-7a1f-4d04-a0d1-bb14192b56f6,female,1927.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,29883.0,alive,,2133.0,
+464,a50fe35a-c05b-42a4-a1ce-dac49d6e761d,female,1948.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,20827.0,alive,,1885.0,
+465,ceb7cd9a-9cb1-42f2-a4ab-0b4381e2b85b,male,1934.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,25617.0,alive,,3936.0,
+466,fcecafa8-8b8b-4ae6-81bc-73acf05b211a,female,1943.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22684.0,alive,,18.0,
+467,eeacbbdc-68c9-4dce-8999-e1dbcb86c14a,female,1949.0,white,not_reported,2010.0,"Clear cell adenocarcinoma, NOS",3.0,21642.0,dead,953.0,,22595.0
+468,8aaa4e25-5c12-4ace-96dc-91aaa0c4457c,male,1946.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,22965.0,dead,333.0,,23298.0
+469,3cbca837-f5a7-4a87-8f02-c59eac232d5a,female,1929.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,28287.0,alive,,16.0,
+470,4b2ec8aa-8460-440e-b75b-6b92ae7a3ffc,female,1940.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24717.0,alive,,1398.0,
+471,0242658f-a698-4e68-b6e3-2f4aa076763e,female,1937.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,23966.0,alive,,3074.0,
+472,6fbf13b2-614b-4c61-824b-81ae25daae31,male,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17133.0,alive,,1731.0,
+473,5003a0cb-1a60-4c2e-b7f7-6e9245c66968,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17968.0,alive,,2660.0,
+474,8be7d2e2-1504-49d0-bbdd-893d3d12e072,male,1936.0,white,not_reported,2007.0,"Clear cell adenocarcinoma, NOS",3.0,24727.0,dead,1589.0,,26316.0
+475,b125ff14-4fb4-4f90-8622-fed49bdfe954,male,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,21135.0,alive,,1525.0,
+476,5f53ace3-14ca-412a-af6c-98d8996f8177,male,1972.0,white,not_reported,2005.0,"Clear cell adenocarcinoma, NOS",3.0,11701.0,dead,571.0,,12272.0
+477,62c6edc7-170d-4825-ab81-f88b14013cc5,female,1929.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",3.0,27793.0,dead,770.0,,28563.0
+478,028d32fc-1b9f-49c6-9cb2-2d69671943cd,female,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,16693.0,alive,,2257.0,
+479,d23d354d-04b0-4ff4-bd83-6a2d1ecf3b47,male,1958.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,17284.0,alive,,1935.0,
+480,6949efc1-4f71-4141-b129-a54b4bde5d2f,male,1945.0,white,not_reported,2005.0,"Clear cell adenocarcinoma, NOS",4.0,22115.0,dead,206.0,,22321.0
+481,afd60992-f279-46ee-8fb9-53f6be850f6c,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21713.0,alive,,26.0,
+482,ccd44d97-f0d5-47cd-9c12-af458c750d23,male,1931.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27612.0,alive,,785.0,
+483,453085d8-2998-4629-9b2d-641e57d1a497,male,1957.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,17449.0,alive,,1893.0,
+484,cf67eaf8-f5e6-41be-8992-cdb97091e1b0,female,1926.0,white,not hispanic or latino,1998.0,"Clear cell adenocarcinoma, NOS",3.0,26574.0,dead,68.0,,26642.0
+485,57959b73-534d-450c-b09d-f70ef1ffee25,male,1949.0,white,not_reported,2010.0,"Clear cell adenocarcinoma, NOS",3.0,21057.0,dead,1493.0,,22550.0
+486,2d0f6d4f-acb9-4b45-a69d-c9a3f68c3732,male,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,16195.0,alive,,2799.0,
+487,326745d8-98ca-4f4d-b217-96aea9faa1ad,male,1950.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19600.0,alive,,3834.0,
+488,844d8b94-59b0-4787-97eb-474e3aa3e022,male,1935.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,24720.0,alive,,2881.0,
+489,9cdda9fa-d492-4902-afc1-eb2244e70c1b,male,1932.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,27312.0,alive,,1929.0,
+490,3f05a719-e81e-4f0c-a5c1-f1733b7aba11,female,1927.0,white,not_reported,2004.0,"Clear cell adenocarcinoma, NOS",2.0,27778.0,dead,701.0,,28479.0
+491,e7c8a4d3-d51e-482a-9045-4de9c9f29945,male,1940.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,23547.0,dead,1598.0,,25145.0
+492,59278f79-4f42-4d1c-9007-3958486042fc,male,1939.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25937.0,alive,,1476.0,
+493,c4bbbcd2-aa18-4b1f-99d4-93279e31d7e7,male,1957.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,17611.0,dead,932.0,,18543.0
+494,d7ab7ec0-3de7-4ffd-a5ac-f75579355b2a,male,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,23477.0,alive,,1290.0,
+495,9fe336a8-08a7-4fe7-bf45-afd6a8eb9c75,male,1945.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22424.0,alive,,1520.0,
+496,900b5f21-e8fb-4a3f-b8e3-ef098716e508,male,1964.0,asian,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15637.0,alive,,1528.0,
+497,d599ff9b-66c7-4690-b37a-cb86bdda7782,male,1954.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,18921.0,dead,182.0,,19103.0
+498,58ef1a13-a549-4043-b66c-5327bfcbd2e6,male,1952.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19312.0,alive,,2378.0,
+499,bf768635-b809-4df4-a4e6-7495e66aa227,female,1941.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22843.0,alive,,3974.0,
+500,9f5c0a43-d222-484a-9249-d288387dd7a1,male,1944.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,23130.0,dead,878.0,,24008.0
+501,420409bb-0889-40a1-80cf-9b5916704f04,male,1943.0,white,not hispanic or latino,2001.0,"Clear cell adenocarcinoma, NOS",4.0,21374.0,dead,168.0,,21542.0
+502,dc6f2273-ffea-41f4-a28b-d03112587f4f,male,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23190.0,alive,,1876.0,
+503,852effcd-8146-46e1-96fa-e5a9f09a88e2,female,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22155.0,alive,,3498.0,
+504,b81243b3-5130-4268-9883-07e547b8d728,female,1937.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,23588.0,alive,,2964.0,
+505,9868ae73-3459-4aa6-b71a-39953cdbbe1a,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19126.0,dead,1170.0,751.0,20296.0
+506,8f54d854-22ea-4bd0-8cb1-1ab708544095,female,1958.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,17147.0,alive,,293.0,
+507,7a4283eb-00e8-4174-b6b9-6d98c65932c5,male,1962.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,16804.0,dead,101.0,,16905.0
+508,02b5012e-f7ac-4423-8978-0b2f5e50926e,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18569.0,alive,,2372.0,
+509,23c7555b-7a37-415d-bda8-3588078a0c2e,male,1947.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,22156.0,dead,822.0,,22978.0
+510,830626c5-891f-4b62-bc0a-68fbfb8bc2a8,male,1955.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",2.0,18054.0,alive,,1879.0,
+511,cf77fe39-0b4a-4b38-b563-2a244b9fb5c0,male,1933.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,25582.0,dead,1986.0,,27568.0
+512,ff127be4-631a-4e0e-a971-842f9eb6760e,male,1936.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",3.0,23873.0,dead,1588.0,,25461.0
+513,f184de71-65d0-4e52-aec2-25c5414588c5,female,1928.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,27523.0,dead,2145.0,,29668.0
+514,d2664fde-ce3b-45e6-9a23-4a07980f7bac,female,1950.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,19849.0,dead,782.0,,20631.0
+515,f2b90375-6806-4833-a927-565674cbf355,female,1959.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19803.0,alive,,495.0,
+516,503a9c0b-64b8-41b9-a44f-9cbff9cefbad,male,1943.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",3.0,22612.0,dead,480.0,,23092.0
+517,d4159990-85dd-4557-be1a-bd03818ea3ea,female,1947.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,23293.0,alive,,822.0,
+518,772e3aed-f211-42a1-9ab2-1c543f581541,female,1952.0,white,hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",4.0,19101.0,dead,2227.0,,21328.0
+519,8d769b38-862f-46e3-a426-d09f79f28de6,female,1934.0,asian,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",3.0,25013.0,dead,1230.0,,26243.0
+520,2b1dea0a-6d55-4fdd-9c1c-0d9fbe03bd78,male,1944.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,25205.0,alive,,385.0,
+521,424e5c99-3693-4b10-bbf0-fc43e851610c,male,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26846.0,alive,,1092.0,
+522,7fc6b44d-ae66-409c-98e1-c1a518c33e95,male,1916.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",2.0,31557.0,dead,2830.0,2830.0,34387.0
+523,1b3f2411-52cd-4482-bea2-95cf72020c6f,male,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24912.0,alive,,3343.0,
+524,88e7ce26-5b3f-4e4e-89b7-f706063fc467,female,1955.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,18730.0,alive,,1928.0,
+525,db601d82-e2e7-469c-91da-3dbfcb477326,female,1951.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,20084.0,alive,,1862.0,
+526,ffed886e-261e-464c-aa27-8204dd0eb9a1,male,1931.0,white,not_reported,2010.0,"Clear cell adenocarcinoma, NOS",1.0,28076.0,dead,1111.0,,29187.0
+527,226ce515-c12c-4195-bb5d-d6df2e135ff6,male,1942.0,white,not_reported,2006.0,"Clear cell adenocarcinoma, NOS",2.0,23053.0,dead,446.0,,23499.0
+528,83444c79-6aa5-4081-9143-2055a360e211,female,1940.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23764.0,alive,,1521.0,
+529,f00b7956-73a9-4e4b-85d2-60b3ba13f4a4,male,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22763.0,alive,,2754.0,
+530,ea854858-1dad-4b01-8e58-f19e6a7c41a3,male,1971.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,13517.0,alive,,2016.0,
+531,0ff579a1-e295-408d-b194-febbca798e34,female,1955.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19022.0,alive,,1729.0,
+532,b602a73b-809c-44c6-a787-d496705e7ae8,female,1921.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",3.0,31473.0,dead,73.0,,31546.0
+533,883c37e2-c723-45d7-9e25-082d1bec34e2,male,1945.0,white,not_reported,,"Clear cell adenocarcinoma, NOS",1.0,22456.0,alive,,373.0,
+534,dbe16232-525e-4101-9a39-9d4323b10ee9,male,1941.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,23195.0,alive,,2423.0,
+535,5e248b21-e69d-4dee-a1e8-029ade80d0eb,female,1931.0,,not_reported,,"Clear cell adenocarcinoma, NOS",3.0,27838.0,dead,2564.0,1446.0,30402.0
+536,31a0dd95-8199-4d25-b40d-4b353644af46,female,1936.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24120.0,alive,,3431.0,

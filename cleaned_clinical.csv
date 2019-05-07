@@ -1,0 +1,538 @@
+,submitter_id,gender,year_of_birth,race,ethnicity,year_of_death,primary_diagnosis,tumor_stage,age_at_diagnosis,vital_status,days_to_death,days_to_last_follow_up,age_at_death
+0,TCGA-BP-5198,male,1936.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,26360.0,alive,,603.0,
+1,TCGA-B0-4706,male,1946.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",3.0,22331.0,dead,65.0,26.0,22396.0
+2,TCGA-BP-4760,male,1935.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,25268.0,alive,,2361.0,
+3,TCGA-CZ-5462,male,1924.0,white,not reported,2007.0,"Clear cell adenocarcinoma, NOS",4.0,30659.0,dead,311.0,,30970.0
+4,TCGA-AK-3427,male,1939.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24067.0,alive,,3583.0,
+5,TCGA-BP-4343,male,1939.0,white,not reported,2008.0,"Clear cell adenocarcinoma, NOS",3.0,23498.0,dead,1912.0,,25410.0
+6,TCGA-CZ-5468,male,1923.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,30729.0,dead,59.0,59.0,30788.0
+7,TCGA-BP-4334,male,1947.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,20609.0,dead,645.0,645.0,21254.0
+8,TCGA-A3-A6NI,male,1964.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,17190.0,alive,,1018.0,
+9,TCGA-BP-4159,male,1932.0,white,not reported,2009.0,"Clear cell adenocarcinoma, NOS",1.0,25677.0,dead,2601.0,,28278.0
+10,TCGA-BP-4340,female,1933.0,white,not reported,2004.0,"Clear cell adenocarcinoma, NOS",1.0,25752.0,dead,562.0,,26314.0
+11,TCGA-B8-4148,female,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23062.0,alive,,1520.0,
+12,TCGA-BP-4797,male,1973.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,12508.0,alive,,1107.0,
+13,TCGA-BP-5169,male,1934.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,25615.0,alive,,193.0,
+14,TCGA-BP-5202,male,1933.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,27556.0,alive,,29.0,
+15,TCGA-CZ-5987,male,1946.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,21928.0,dead,445.0,,22373.0
+16,TCGA-EU-5904,female,1962.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,17468.0,alive,,551.0,
+17,TCGA-AK-3445,male,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25494.0,alive,,2392.0,
+18,TCGA-B8-5553,female,1943.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24729.0,alive,,435.0,
+19,TCGA-B4-5378,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22980.0,alive,,175.0,
+20,TCGA-B8-5552,female,1969.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15219.0,alive,,1046.0,
+21,TCGA-AK-3431,female,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22852.0,dead,2241.0,1853.0,25093.0
+22,TCGA-DV-5569,female,1980.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,10698.0,alive,,355.0,
+23,TCGA-BP-4804,male,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21727.0,alive,,1459.0,
+24,TCGA-CZ-4866,female,1927.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28878.0,alive,,3267.0,
+25,TCGA-CZ-5989,male,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22170.0,alive,,1905.0,
+26,TCGA-B0-4847,male,1944.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,22147.0,dead,793.0,,22940.0
+27,TCGA-B0-4714,male,1929.0,white,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",4.0,29873.0,dead,99.0,,29972.0
+28,TCGA-AS-3778,male,1975.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,12937.0,alive,,43.0,
+29,TCGA-B0-4707,male,1945.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,23322.0,dead,600.0,,23922.0
+30,TCGA-B0-5110,female,1938.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,25976.0,alive,,2009.0,
+31,TCGA-CZ-5985,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,21242.0,alive,,1997.0,
+32,TCGA-B0-5710,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21168.0,alive,,2430.0,
+33,TCGA-CJ-6028,male,1945.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,21380.0,dead,1625.0,,23005.0
+34,TCGA-CJ-4869,male,1955.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,17923.0,alive,,2554.0,
+35,TCGA-BP-4165,female,1938.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,23685.0,alive,,3037.0,
+36,TCGA-BP-4977,male,1949.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,20950.0,alive,,454.0,
+37,TCGA-A3-A8OV,male,1936.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27526.0,alive,,340.0,
+38,TCGA-BP-5170,male,1949.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,20229.0,alive,,2412.0,
+39,TCGA-BP-4991,male,1953.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19739.0,alive,,1413.0,
+40,TCGA-A3-3347,female,1929.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,27966.0,dead,1610.0,1610.0,29576.0
+41,TCGA-A3-3317,male,1938.0,not reported,not reported,,"Clear cell adenocarcinoma, NOS",2.0,24803.0,alive,,1491.0,
+42,TCGA-CZ-5453,male,1939.0,white,not reported,,"Clear cell adenocarcinoma, NOS",2.0,24640.0,dead,2419.0,25.0,27059.0
+43,TCGA-CJ-4886,female,1963.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15698.0,alive,,1952.0,
+44,TCGA-B0-5703,male,1936.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26897.0,alive,,2246.0,
+45,TCGA-BP-4972,female,1963.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,16038.0,alive,,1502.0,
+46,TCGA-B0-5713,female,1931.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,27644.0,alive,,2782.0,
+47,TCGA-B8-A54E,female,1949.0,black or african american,hispanic or latino,,"Renal cell carcinoma, NOS",1.0,22900.0,alive,,909.0,
+48,TCGA-BP-4327,female,1927.0,white,not reported,2002.0,"Clear cell adenocarcinoma, NOS",2.0,27556.0,dead,109.0,,27665.0
+49,TCGA-A3-3374,female,1954.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18890.0,alive,,1314.0,
+50,TCGA-BP-4761,male,1947.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,21019.0,alive,,182.0,
+51,TCGA-BP-4770,female,1932.0,white,not reported,2005.0,"Clear cell adenocarcinoma, NOS",4.0,26824.0,dead,329.0,,27153.0
+52,TCGA-CJ-4878,female,1933.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,26224.0,alive,,2186.0,
+53,TCGA-B2-4102,male,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22492.0,alive,,952.0,
+54,TCGA-BP-5200,male,1964.0,white,not reported,,"Clear cell adenocarcinoma, NOS",2.0,16197.0,alive,,1063.0,
+55,TCGA-A3-3352,male,1931.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",3.0,,dead,561.0,,
+56,TCGA-CW-6090,male,1935.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,24909.0,alive,,2552.0,
+57,TCGA-B0-5399,male,1964.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17145.0,alive,,1411.0,
+58,TCGA-A3-3378,male,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22090.0,alive,,630.0,
+59,TCGA-A3-A8OW,male,1974.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,13546.0,alive,,323.0,
+60,TCGA-A3-3382,male,1938.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,25207.0,alive,,574.0,
+61,TCGA-BP-5000,male,1967.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,14868.0,alive,,563.0,
+62,TCGA-BP-4326,female,1949.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19376.0,dead,1625.0,1625.0,21001.0
+63,TCGA-A3-3329,male,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27650.0,alive,,1624.0,
+64,TCGA-CZ-5461,male,1954.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,19030.0,dead,330.0,330.0,19360.0
+65,TCGA-AK-3443,male,1961.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,16578.0,alive,,1423.0,
+66,TCGA-BP-4349,female,1938.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,24853.0,alive,,372.0,
+67,TCGA-BP-5175,male,1944.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,21949.0,alive,,932.0,
+68,TCGA-BP-4782,female,1950.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,20102.0,alive,,354.0,
+69,TCGA-B4-5832,male,1945.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,23806.0,alive,,155.0,
+70,TCGA-B2-5641,male,1931.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28953.0,alive,,656.0,
+71,TCGA-DV-5573,male,1967.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15264.0,alive,,1130.0,
+72,TCGA-B0-5075,female,1928.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",3.0,28205.0,dead,637.0,,28842.0
+73,TCGA-CJ-5689,male,1915.0,white,hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,32872.0,dead,1620.0,,34492.0
+74,TCGA-BP-5001,female,1964.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,15858.0,alive,,1177.0,
+75,TCGA-B0-4696,male,1943.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",3.0,21317.0,dead,866.0,,22183.0
+76,TCGA-CW-5591,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,20712.0,alive,,2271.0,
+77,TCGA-CW-5588,female,1926.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28714.0,alive,,2017.0,
+78,TCGA-B8-4151,female,1958.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,18760.0,alive,,1299.0,
+79,TCGA-CJ-4639,female,1955.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,18066.0,alive,,3229.0,
+80,TCGA-B2-4099,male,1927.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,30355.0,alive,,972.0,
+81,TCGA-BP-4801,male,1950.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,20825.0,alive,,1124.0,
+82,TCGA-B0-5080,male,1942.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,23052.0,dead,342.0,,23394.0
+83,TCGA-B0-5115,male,1966.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,15935.0,alive,,1604.0,
+84,TCGA-B8-4619,male,1952.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21206.0,alive,,523.0,
+85,TCGA-BP-4347,male,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,27146.0,alive,,1367.0,
+86,TCGA-CJ-4870,female,1946.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,21340.0,alive,,1498.0,
+87,TCGA-BP-5184,male,1953.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19746.0,alive,,1133.0,
+88,TCGA-AS-3777,male,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23039.0,alive,,1238.0,
+89,TCGA-CJ-4874,female,1931.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26761.0,alive,,2283.0,
+90,TCGA-DV-A4VZ,male,1954.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19560.0,alive,,365.0,
+91,TCGA-CJ-5686,female,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21836.0,alive,,2038.0,
+92,TCGA-BP-5009,male,1955.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,19052.0,dead,1092.0,,20144.0
+93,TCGA-B8-4621,male,1947.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23176.0,alive,,788.0,
+94,TCGA-B0-4846,male,1952.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,19139.0,dead,1200.0,,20339.0
+95,TCGA-B0-5099,female,1914.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",3.0,32364.0,dead,485.0,,32849.0
+96,TCGA-BP-5180,male,1951.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19413.0,alive,,2263.0,
+97,TCGA-B0-5699,male,1950.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19647.0,alive,,3841.0,
+98,TCGA-B0-4819,female,1942.0,white,not hispanic or latino,2002.0,"Clear cell adenocarcinoma, NOS",4.0,22220.0,dead,183.0,183.0,22403.0
+99,TCGA-CJ-4905,female,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22864.0,alive,,1496.0,
+100,TCGA-CJ-4876,male,1947.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,20993.0,alive,,1955.0,
+101,TCGA-CJ-5676,male,1957.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,17170.0,alive,,4067.0,
+102,TCGA-BP-4993,male,1949.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,21407.0,alive,,177.0,
+103,TCGA-B0-4838,female,1934.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",1.0,25268.0,dead,834.0,,26102.0
+104,TCGA-BP-4177,male,1940.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23955.0,alive,,1670.0,
+105,TCGA-BP-5196,male,1955.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19719.0,alive,,1018.0,
+106,TCGA-BP-4994,male,1953.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19946.0,alive,,1308.0,
+107,TCGA-EU-5907,male,1929.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,29863.0,alive,,127.0,
+108,TCGA-CW-6087,male,1942.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",4.0,22438.0,dead,41.0,,22479.0
+109,TCGA-CW-5580,female,1930.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,26696.0,dead,1964.0,,28660.0
+110,TCGA-CW-5583,female,1952.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,18666.0,alive,,2489.0,
+111,TCGA-B0-5400,female,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,21819.0,alive,,1733.0,
+112,TCGA-BP-5008,male,1961.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,17008.0,alive,,1071.0,
+113,TCGA-B0-5690,female,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19685.0,alive,,3392.0,
+114,TCGA-B2-5636,male,1931.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28901.0,alive,,919.0,
+115,TCGA-BP-5181,female,1948.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,21514.0,alive,,1495.0,
+116,TCGA-B0-5113,female,1941.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25369.0,alive,,1175.0,
+117,TCGA-CZ-5470,female,1936.0,not reported,not reported,,"Clear cell adenocarcinoma, NOS",2.0,26494.0,alive,,386.0,
+118,TCGA-BP-4768,female,1933.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,26474.0,alive,,400.0,
+119,TCGA-CZ-5988,male,1968.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,14131.0,alive,,693.0,
+120,TCGA-AK-3426,male,1967.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",3.0,13770.0,dead,885.0,,14655.0
+121,TCGA-BP-4787,female,1948.0,white,not reported,2008.0,"Clear cell adenocarcinoma, NOS",4.0,21697.0,dead,480.0,,22177.0
+122,TCGA-G6-A8L6,male,1958.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,20306.0,dead,313.0,305.0,20619.0
+123,TCGA-A3-3365,male,1960.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,16915.0,alive,,873.0,
+124,TCGA-B0-5100,male,1926.0,black or african american,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",3.0,26478.0,dead,1913.0,,28391.0
+125,TCGA-B0-5696,male,1938.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25552.0,alive,,2609.0,
+126,TCGA-B0-4822,male,1924.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",2.0,28774.0,dead,1111.0,,29885.0
+127,TCGA-CJ-4903,male,1956.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18510.0,alive,,1559.0,
+128,TCGA-B8-4154,female,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26882.0,alive,,1380.0,
+129,TCGA-CJ-4875,male,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,24510.0,dead,3554.0,2353.0,28064.0
+130,TCGA-B0-4824,female,1953.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",1.0,18132.0,dead,1657.0,,19789.0
+131,TCGA-BP-5192,male,1948.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,21891.0,alive,,714.0,
+132,TCGA-CJ-4907,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,21208.0,alive,,1499.0,
+133,TCGA-BP-4985,male,1934.0,white,not reported,2008.0,"Clear cell adenocarcinoma, NOS",3.0,26611.0,dead,952.0,,27563.0
+134,TCGA-B0-4817,male,1921.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,29873.0,dead,1019.0,,30892.0
+135,TCGA-B0-5092,female,1955.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,19611.0,dead,459.0,,20070.0
+136,TCGA-BP-4999,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20518.0,alive,,1266.0,
+137,TCGA-CZ-5464,male,1938.0,white,not reported,,"Clear cell adenocarcinoma, NOS",4.0,25463.0,alive,,2128.0,
+138,TCGA-AK-3455,female,1936.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",3.0,26221.0,dead,683.0,,26904.0
+139,TCGA-BP-4352,female,1933.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,27253.0,dead,344.0,,27597.0
+140,TCGA-B8-5549,male,1957.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19561.0,alive,,194.0,
+141,TCGA-B0-5097,female,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,21852.0,alive,,665.0,
+142,TCGA-CJ-4882,male,1948.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,21074.0,alive,,1883.0,
+143,TCGA-CW-6096,female,1960.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,16140.0,alive,,2701.0,
+144,TCGA-CJ-5678,male,1941.0,black or african american,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,22944.0,dead,574.0,,23518.0
+145,TCGA-A3-3359,female,1923.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,30269.0,alive,,2504.0,
+146,TCGA-BP-5185,male,1951.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,20470.0,alive,,1132.0,
+147,TCGA-AK-3436,male,1965.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,14842.0,alive,,3331.0,
+148,TCGA-BP-4158,male,1932.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,25210.0,alive,,3377.0,
+149,TCGA-CJ-4923,female,1941.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,23353.0,dead,572.0,,23925.0
+150,TCGA-A3-3363,male,1956.0,asian,not reported,,"Clear cell adenocarcinoma, NOS",2.0,18596.0,alive,,319.0,
+151,TCGA-B2-4098,female,1938.0,black or african american,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",1.0,26606.0,dead,51.0,,26657.0
+152,TCGA-CZ-5459,male,1943.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,23318.0,alive,,1683.0,
+153,TCGA-CZ-5469,male,1966.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",2.0,15242.0,dead,946.0,,16188.0
+154,TCGA-CJ-5681,female,1959.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,16121.0,dead,552.0,,16673.0
+155,TCGA-AK-3450,female,1921.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,31364.0,alive,,1779.0,
+156,TCGA-DV-A4VX,male,1949.0,black or african american,not hispanic or latino,2012.0,"Clear cell adenocarcinoma, NOS",4.0,21670.0,dead,1626.0,,23296.0
+157,TCGA-A3-A6NN,male,1934.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,28689.0,alive,,3.0,
+158,TCGA-CJ-4636,male,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,18878.0,alive,,1924.0,
+159,TCGA-B2-5639,male,1964.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,17045.0,dead,1003.0,417.0,18048.0
+160,TCGA-A3-3380,male,1953.0,not reported,hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19828.0,alive,,567.0,
+161,TCGA-CJ-4895,male,1943.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,22892.0,dead,1200.0,,24092.0
+162,TCGA-A3-A8OU,female,1937.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27377.0,alive,,0.0,
+163,TCGA-DV-A4W0,male,1953.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20101.0,alive,,2470.0,
+164,TCGA-CW-5585,male,1952.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,18898.0,alive,,2609.0,
+165,TCGA-B0-5102,female,1925.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",1.0,27152.0,dead,2764.0,,29916.0
+166,TCGA-B0-4823,male,1914.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",1.0,32290.0,dead,454.0,,32744.0
+167,TCGA-B0-5077,male,1928.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,28405.0,dead,1317.0,,29722.0
+168,TCGA-B8-5545,male,1968.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15376.0,alive,,1525.0,
+169,TCGA-B2-4101,male,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,19059.0,alive,,648.0,
+170,TCGA-BP-4960,male,1958.0,white,not reported,,"Clear cell adenocarcinoma, NOS",2.0,17099.0,alive,,2172.0,
+171,TCGA-BP-4332,male,1966.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,13404.0,alive,,1133.0,
+172,TCGA-DV-5565,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21642.0,alive,,1329.0,
+173,TCGA-B0-5104,female,1912.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,32872.0,dead,2752.0,,35624.0
+174,TCGA-CJ-4893,female,1929.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27885.0,alive,,750.0,
+175,TCGA-B0-5692,female,1938.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,24140.0,alive,,3944.0,
+176,TCGA-BP-5201,male,1945.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,23125.0,alive,,951.0,
+177,TCGA-BP-4345,male,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22879.0,alive,,1516.0,
+178,TCGA-BP-4765,male,1961.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,15814.0,alive,,2184.0,
+179,TCGA-CJ-5680,female,1938.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,23778.0,dead,768.0,,24546.0
+180,TCGA-A3-3385,female,1961.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17114.0,alive,,1993.0,
+181,TCGA-A3-3367,male,1934.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26489.0,alive,,2270.0,
+182,TCGA-A3-3331,female,1919.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,31615.0,alive,,1485.0,
+183,TCGA-BP-4164,female,1951.0,white,not reported,2004.0,"Clear cell adenocarcinoma, NOS",3.0,18898.0,dead,992.0,,19890.0
+184,TCGA-BP-4789,male,1959.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,17540.0,alive,,1489.0,
+185,TCGA-A3-3307,male,1939.0,not reported,not reported,,"Clear cell adenocarcinoma, NOS",3.0,24315.0,alive,,1436.0,
+186,TCGA-BP-4331,male,1950.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,19022.0,dead,2454.0,,21476.0
+187,TCGA-B0-5095,male,1927.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",3.0,29921.0,dead,245.0,,30166.0
+188,TCGA-B0-5702,male,1936.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26186.0,alive,,2172.0,
+189,TCGA-DV-5568,male,1983.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,9714.0,alive,,370.0,
+190,TCGA-CZ-5984,male,1954.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,18775.0,alive,,2067.0,
+191,TCGA-BP-4781,male,1927.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,28701.0,alive,,2080.0,
+192,TCGA-BP-4766,female,1961.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,15799.0,alive,,1462.0,
+193,TCGA-BP-4987,female,1965.0,asian,not reported,,"Clear cell adenocarcinoma, NOS",1.0,15041.0,alive,,1124.0,
+194,TCGA-B8-A54H,female,1943.0,black or african american,not reported,,"Renal cell carcinoma, NOS",2.0,25243.0,alive,,256.0,
+195,TCGA-G6-A5PC,female,1958.0,black or african american,not hispanic or latino,2012.0,"Clear cell adenocarcinoma, NOS",4.0,20029.0,dead,242.0,,20271.0
+196,TCGA-B0-4827,female,1925.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,28467.0,dead,885.0,,29352.0
+197,TCGA-A3-3316,male,1948.0,white,not reported,,"Clear cell adenocarcinoma, NOS",2.0,20931.0,alive,,1493.0,
+198,TCGA-A3-3326,male,1959.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,17285.0,alive,,1137.0,
+199,TCGA-CZ-5466,male,1940.0,not reported,not reported,,"Clear cell adenocarcinoma, NOS",3.0,24669.0,alive,,685.0,
+200,TCGA-B8-5551,female,1945.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23976.0,alive,,16.0,
+201,TCGA-CJ-4641,female,1950.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,20410.0,dead,1661.0,,22071.0
+202,TCGA-MM-A563,male,1971.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",,15037.0,alive,,591.0,
+203,TCGA-BP-5191,male,1928.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,29207.0,alive,,967.0,
+204,TCGA-CJ-4868,male,1963.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,15601.0,dead,646.0,646.0,16247.0
+205,TCGA-B8-5158,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,20764.0,alive,,1218.0,
+206,TCGA-A3-3351,male,1965.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,15562.0,alive,,910.0,
+207,TCGA-CJ-4881,male,1963.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,15197.0,alive,,2014.0,
+208,TCGA-CJ-4643,female,1938.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,24477.0,alive,,1793.0,
+209,TCGA-AK-3447,male,1923.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,30676.0,alive,,1217.0,
+210,TCGA-BP-5183,male,1950.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,20881.0,alive,,1291.0,
+211,TCGA-B0-5119,female,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22607.0,alive,,1552.0,
+212,TCGA-CJ-4918,male,1941.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,23379.0,dead,93.0,,23472.0
+213,TCGA-BP-4981,female,1931.0,white,not reported,2009.0,"Clear cell adenocarcinoma, NOS",3.0,27676.0,dead,1097.0,,28773.0
+214,TCGA-A3-3372,male,1943.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,23528.0,alive,,735.0,
+215,TCGA-CJ-5672,male,1920.0,white,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",1.0,30900.0,dead,2190.0,,33090.0
+216,TCGA-A3-A6NL,female,1963.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,17952.0,alive,,689.0,
+217,TCGA-BP-4330,female,1942.0,black or african american,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22239.0,alive,,1888.0,
+218,TCGA-B0-4839,female,1923.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",1.0,29380.0,dead,1639.0,,31019.0
+219,TCGA-A3-3357,male,1943.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22825.0,alive,,2688.0,
+220,TCGA-AK-3458,male,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17557.0,alive,,1168.0,
+221,TCGA-B0-5695,female,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22320.0,alive,,2150.0,
+222,TCGA-B0-4816,male,1953.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",2.0,18133.0,dead,1371.0,,19504.0
+223,TCGA-BP-5173,male,1929.0,white,not reported,2004.0,"Clear cell adenocarcinoma, NOS",1.0,27436.0,dead,62.0,,27498.0
+224,TCGA-A3-3370,female,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17621.0,alive,,2274.0,
+225,TCGA-B4-5838,male,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",,19242.0,alive,,166.0,
+226,TCGA-B0-4811,male,1953.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,17792.0,dead,1417.0,,19209.0
+227,TCGA-BP-4784,female,1938.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,24603.0,alive,,1854.0,
+228,TCGA-AK-3465,female,1937.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26232.0,alive,,369.0,
+229,TCGA-CJ-4890,male,1933.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,26604.0,alive,,3519.0,
+230,TCGA-B0-5705,female,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23746.0,alive,,4537.0,
+231,TCGA-B0-4691,male,1954.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,20176.0,dead,139.0,,20315.0
+232,TCGA-AK-3453,female,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,21271.0,alive,,2531.0,
+233,TCGA-BP-4353,male,1946.0,white,not reported,2008.0,"Clear cell adenocarcinoma, NOS",1.0,22415.0,dead,375.0,,22790.0
+234,TCGA-CJ-4901,male,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,17396.0,alive,,1450.0,
+235,TCGA-B0-5698,male,1928.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28438.0,alive,,3631.0,
+236,TCGA-B2-5633,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20493.0,alive,,963.0,
+237,TCGA-B8-4146,female,1968.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15063.0,alive,,511.0,
+238,TCGA-BP-4968,male,1966.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14651.0,alive,,1746.0,
+239,TCGA-A3-3324,male,1955.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,18843.0,alive,,1186.0,
+240,TCGA-B0-4842,female,1931.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",3.0,27019.0,dead,1724.0,,28743.0
+241,TCGA-BP-5187,male,1953.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19999.0,alive,,406.0,
+242,TCGA-B0-5088,male,1953.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",1.0,19677.0,dead,563.0,,20240.0
+243,TCGA-B0-4701,female,1939.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,24232.0,dead,238.0,,24470.0
+244,TCGA-CJ-4920,female,1940.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",1.0,23656.0,dead,139.0,,23795.0
+245,TCGA-B2-5635,male,1936.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27183.0,alive,,755.0,
+246,TCGA-B0-4813,male,1933.0,white,not hispanic or latino,2001.0,"Clear cell adenocarcinoma, NOS",3.0,25018.0,dead,18.0,18.0,25036.0
+247,TCGA-CZ-5456,male,1949.0,white,not reported,,"Clear cell adenocarcinoma, NOS",2.0,21164.0,alive,,2422.0,
+248,TCGA-BP-4983,female,1939.0,asian,not reported,,"Clear cell adenocarcinoma, NOS",3.0,24558.0,alive,,1413.0,
+249,TCGA-MM-A84U,female,1955.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21375.0,alive,,700.0,
+250,TCGA-BP-5190,male,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22285.0,alive,,1011.0,
+251,TCGA-BP-4998,male,1958.0,asian,not reported,,"Clear cell adenocarcinoma, NOS",1.0,17997.0,alive,,932.0,
+252,TCGA-BP-4975,male,1966.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14710.0,alive,,1433.0,
+253,TCGA-CJ-5684,male,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22561.0,alive,,2231.0,
+254,TCGA-BP-4762,male,1962.0,white,not reported,2007.0,"Clear cell adenocarcinoma, NOS",1.0,15358.0,dead,1343.0,,16701.0
+255,TCGA-AK-3429,female,1950.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,19849.0,alive,,3328.0,
+256,TCGA-CJ-4897,female,1926.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,29124.0,alive,,3341.0,
+257,TCGA-CZ-4854,male,1937.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,24876.0,dead,1404.0,,26280.0
+258,TCGA-A3-3319,male,1936.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,25699.0,alive,,1130.0,
+259,TCGA-CZ-5452,male,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,25486.0,alive,,1789.0,
+260,TCGA-A3-3387,male,1957.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17920.0,alive,,617.0,
+261,TCGA-BP-5007,male,1962.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,16793.0,alive,,1140.0,
+262,TCGA-B0-4698,male,1928.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",4.0,27417.0,dead,42.0,,27459.0
+263,TCGA-B8-4620,female,1940.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25786.0,alive,,777.0,
+264,TCGA-B0-5706,male,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,16442.0,alive,,3205.0,
+265,TCGA-A3-3376,male,1955.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18954.0,dead,1696.0,1070.0,20650.0
+266,TCGA-A3-3306,male,1938.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24569.0,alive,,1120.0,
+267,TCGA-AK-3428,male,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22653.0,alive,,3728.0,
+268,TCGA-A3-3313,male,1946.0,black or african american,not reported,2007.0,"Clear cell adenocarcinoma, NOS",1.0,21556.0,dead,735.0,735.0,22291.0
+269,TCGA-B0-4836,male,1942.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,22488.0,dead,1238.0,,23726.0
+270,TCGA-6D-AA2E,female,1945.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,25043.0,alive,,362.0,
+271,TCGA-BP-4982,male,1964.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,15451.0,alive,,1014.0,
+272,TCGA-B0-5121,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20635.0,alive,,1485.0,
+273,TCGA-MW-A4EC,female,1940.0,black or african american,hispanic or latino,,"Renal cell carcinoma, NOS",1.0,26649.0,alive,,498.0,
+274,TCGA-BP-4989,male,1949.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,21382.0,alive,,118.0,
+275,TCGA-CJ-4640,male,1955.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,18178.0,alive,,3480.0,
+276,TCGA-A3-3328,male,1928.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,29168.0,alive,,1385.0,
+277,TCGA-B0-5707,female,1965.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14598.0,alive,,3744.0,
+278,TCGA-DV-5576,female,1953.0,black or african american,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,20310.0,dead,727.0,,21037.0
+279,TCGA-BP-4354,male,1966.0,white,not reported,2008.0,"Clear cell adenocarcinoma, NOS",4.0,14973.0,dead,1034.0,,16007.0
+280,TCGA-B0-5697,male,1957.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18486.0,alive,,2630.0,
+281,TCGA-BP-4342,male,1924.0,white,not reported,2009.0,"Clear cell adenocarcinoma, NOS",2.0,29032.0,dead,2256.0,,31288.0
+282,TCGA-AK-3461,male,1935.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26464.0,alive,,2217.0,
+283,TCGA-BP-4161,male,1928.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,27119.0,alive,,2746.0,
+284,TCGA-CJ-4642,male,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,17367.0,alive,,3205.0,
+285,TCGA-B8-A54I,male,1964.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,17722.0,alive,,150.0,
+286,TCGA-B0-5120,female,1938.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26559.0,alive,,1169.0,
+287,TCGA-B2-3923,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,21793.0,alive,,992.0,
+288,TCGA-B0-4697,female,1957.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,16844.0,dead,578.0,,17422.0
+289,TCGA-A3-3311,male,1948.0,not reported,not reported,2008.0,"Clear cell adenocarcinoma, NOS",1.0,21183.0,dead,1191.0,,22374.0
+290,TCGA-AK-3456,male,1959.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,17821.0,alive,,1143.0,
+291,TCGA-AK-3444,female,1926.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,29497.0,alive,,1471.0,
+292,TCGA-CJ-6033,female,1950.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,19919.0,dead,224.0,,20143.0
+293,TCGA-CJ-4889,female,1942.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23051.0,alive,,1946.0,
+294,TCGA-B0-4818,female,1934.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",2.0,24853.0,dead,510.0,,25363.0
+295,TCGA-B0-5712,female,1936.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,24988.0,alive,,2722.0,
+296,TCGA-CZ-5982,female,1946.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,21592.0,alive,,2439.0,
+297,TCGA-AK-3454,male,1922.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,30862.0,alive,,874.0,
+298,TCGA-CJ-4644,female,1956.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,17882.0,dead,336.0,,18218.0
+299,TCGA-BP-4775,female,1950.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,20369.0,alive,,1843.0,
+300,TCGA-CJ-4638,female,1958.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,17110.0,dead,431.0,,17541.0
+301,TCGA-B0-4843,male,1947.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,21088.0,dead,320.0,,21408.0
+302,TCGA-BP-5178,male,1933.0,white,not reported,2009.0,"Clear cell adenocarcinoma, NOS",4.0,26070.0,dead,1912.0,,27982.0
+303,TCGA-CJ-4913,female,1961.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,16757.0,dead,1173.0,,17930.0
+304,TCGA-B0-4699,male,1930.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,27225.0,dead,110.0,,27335.0
+305,TCGA-BP-4167,male,1944.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,21901.0,alive,,2718.0,
+306,TCGA-G6-A8L8,female,1946.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22649.0,dead,1091.0,474.0,23740.0
+307,TCGA-EU-5905,female,1943.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,24475.0,alive,,119.0,
+308,TCGA-CJ-4908,male,1968.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14226.0,alive,,1531.0,
+309,TCGA-CJ-4888,male,1946.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,21701.0,dead,1567.0,,23268.0
+310,TCGA-CW-5587,female,1941.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22693.0,alive,,2226.0,
+311,TCGA-B0-5711,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,18444.0,alive,,3989.0,
+312,TCGA-BP-4995,male,1939.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24850.0,alive,,1371.0,
+313,TCGA-B0-4713,female,1934.0,white,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",3.0,27899.0,dead,202.0,,28101.0
+314,TCGA-BP-4963,male,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23373.0,alive,,1834.0,
+315,TCGA-B4-5844,female,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22409.0,alive,,7.0,
+316,TCGA-AK-3440,male,1947.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21337.0,alive,,2865.0,
+317,TCGA-B0-4718,male,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,20910.0,alive,,1778.0,
+318,TCGA-CJ-5682,male,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,22244.0,alive,,3736.0,
+319,TCGA-B0-5107,female,1942.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,23929.0,dead,927.0,,24856.0
+320,TCGA-BP-4758,male,1964.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,14824.0,alive,,2208.0,
+321,TCGA-BP-5199,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,21256.0,alive,,1355.0,
+322,TCGA-A3-A8OX,female,1947.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23998.0,alive,,0.0,
+323,TCGA-B8-4153,male,1936.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,27031.0,alive,,762.0,
+324,TCGA-BP-4763,female,1925.0,white,not reported,2007.0,"Clear cell adenocarcinoma, NOS",1.0,29150.0,dead,1270.0,,30420.0
+325,TCGA-B4-5836,female,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22341.0,alive,,141.0,
+326,TCGA-B8-A54J,male,1952.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",2.0,22071.0,alive,,528.0,
+327,TCGA-CJ-5671,male,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18954.0,alive,,3987.0,
+328,TCGA-BP-4967,male,1929.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,27857.0,alive,,205.0,
+329,TCGA-B0-4841,male,1941.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,23097.0,dead,204.0,,23301.0
+330,TCGA-CJ-4885,male,1941.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,23437.0,alive,,3451.0,
+331,TCGA-BP-4988,male,1935.0,white,not reported,2009.0,"Clear cell adenocarcinoma, NOS",1.0,26576.0,dead,828.0,,27404.0
+332,TCGA-CJ-5679,male,1930.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,26858.0,dead,679.0,,27537.0
+333,TCGA-A3-3349,female,1972.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,12431.0,alive,,1385.0,
+334,TCGA-BP-5006,male,1946.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,22324.0,alive,,840.0,
+335,TCGA-A3-3323,male,1953.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19456.0,alive,,1106.0,
+336,TCGA-DV-5567,female,1968.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14642.0,alive,,2004.0,
+337,TCGA-CJ-4894,male,1947.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",3.0,21524.0,dead,841.0,841.0,22365.0
+338,TCGA-B0-5083,male,1942.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",1.0,23034.0,dead,1045.0,,24079.0
+339,TCGA-CJ-6031,male,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19905.0,alive,,1906.0,
+340,TCGA-BP-4170,female,1931.0,white,hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,26596.0,dead,2343.0,,28939.0
+341,TCGA-BP-4799,male,1937.0,white,not reported,2010.0,"Clear cell adenocarcinoma, NOS",3.0,25842.0,dead,1133.0,,26975.0
+342,TCGA-BP-4803,male,1929.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,28934.0,alive,,204.0,
+343,TCGA-BP-4756,female,1941.0,asian,not reported,,"Clear cell adenocarcinoma, NOS",1.0,23001.0,alive,,374.0,
+344,TCGA-B8-A54D,male,1942.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",3.0,25429.0,alive,,830.0,
+345,TCGA-CZ-5455,male,1943.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,23150.0,dead,561.0,,23711.0
+346,TCGA-B8-5165,male,1967.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15898.0,alive,,737.0,
+347,TCGA-BP-4969,female,1943.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23216.0,alive,,1794.0,
+348,TCGA-A3-3343,male,1926.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,28930.0,alive,,945.0,
+349,TCGA-BP-4974,male,1948.0,white,not reported,2006.0,"Clear cell adenocarcinoma, NOS",4.0,21310.0,dead,211.0,,21521.0
+350,TCGA-A3-A6NJ,female,1955.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,20918.0,alive,,468.0,
+351,TCGA-CZ-4859,female,1946.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,21842.0,alive,,1787.0,
+352,TCGA-BP-4166,male,1934.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,25300.0,alive,,13.0,
+353,TCGA-BP-5182,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20597.0,alive,,1165.0,
+354,TCGA-CW-6093,male,1931.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26909.0,alive,,3146.0,
+355,TCGA-BP-5194,male,1969.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,14551.0,alive,,408.0,
+356,TCGA-B0-4700,male,1944.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,22034.0,dead,1980.0,,24014.0
+357,TCGA-B8-A8YJ,female,1953.0,black or african american,not reported,,"Clear cell adenocarcinoma, NOS",1.0,21994.0,alive,,431.0,
+358,TCGA-AK-3451,male,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,17859.0,alive,,2868.0,
+359,TCGA-B0-4849,male,1953.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",3.0,18843.0,dead,69.0,,18912.0
+360,TCGA-CW-5584,male,1929.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",3.0,27352.0,dead,164.0,,27516.0
+361,TCGA-BP-4163,female,1942.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,21980.0,alive,,2839.0,
+362,TCGA-BP-4329,male,1927.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,27699.0,dead,845.0,845.0,28544.0
+363,TCGA-BP-4335,female,1938.0,white,not reported,2004.0,"Clear cell adenocarcinoma, NOS",4.0,23860.0,dead,475.0,,24335.0
+364,TCGA-B0-5116,male,1958.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,19352.0,alive,,1274.0,
+365,TCGA-AK-3460,male,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21281.0,alive,,2508.0,
+366,TCGA-CZ-5460,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,20392.0,alive,,2873.0,
+367,TCGA-B0-4810,male,1954.0,white,not hispanic or latino,2002.0,"Clear cell adenocarcinoma, NOS",3.0,17402.0,dead,478.0,,17880.0
+368,TCGA-BP-4971,male,1966.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,14675.0,alive,,1487.0,
+369,TCGA-B0-4712,male,1930.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",4.0,28095.0,dead,1337.0,,29432.0
+370,TCGA-CZ-4853,male,1923.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,30191.0,alive,,774.0,
+371,TCGA-CW-5590,male,1953.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,18905.0,dead,1075.0,,19980.0
+372,TCGA-BP-5168,male,1927.0,white,not reported,2006.0,"Clear cell adenocarcinoma, NOS",1.0,27692.0,dead,1463.0,,29155.0
+373,TCGA-CJ-6030,male,1938.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,24096.0,dead,2299.0,,26395.0
+374,TCGA-B8-5159,female,1949.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22462.0,alive,,722.0,
+375,TCGA-B0-4852,female,1926.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",2.0,28552.0,dead,1121.0,,29673.0
+376,TCGA-B8-5164,male,1945.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,23863.0,alive,,26.0,
+377,TCGA-AK-3434,male,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26490.0,alive,,2087.0,
+378,TCGA-CZ-4858,male,1966.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,14343.0,dead,2105.0,1943.0,16448.0
+379,TCGA-BP-4337,female,1927.0,white,not reported,2003.0,"Clear cell adenocarcinoma, NOS",3.0,27906.0,dead,2.0,,27908.0
+380,TCGA-BP-4965,male,1959.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,16992.0,alive,,1871.0,
+381,TCGA-B0-4833,female,1921.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,30190.0,dead,2386.0,,32576.0
+382,TCGA-B0-4710,female,1935.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,27396.0,alive,,1755.0,
+383,TCGA-B0-5081,female,1926.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",3.0,29219.0,dead,362.0,,29581.0
+384,TCGA-BP-4344,female,1931.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,27561.0,alive,,1666.0,
+385,TCGA-BP-4970,male,1962.0,asian,not reported,,"Clear cell adenocarcinoma, NOS",3.0,16228.0,alive,,433.0,
+386,TCGA-B8-5162,male,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,23008.0,alive,,36.0,
+387,TCGA-CJ-4916,female,1938.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25470.0,alive,,1373.0,
+388,TCGA-B4-5377,female,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,25115.0,alive,,365.0,
+389,TCGA-B0-4828,male,1924.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",4.0,28948.0,dead,307.0,,29255.0
+390,TCGA-BP-5176,female,1926.0,white,not reported,2008.0,"Clear cell adenocarcinoma, NOS",1.0,28727.0,dead,1590.0,,30317.0
+391,TCGA-CJ-6032,female,1941.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,23310.0,alive,,3639.0,
+392,TCGA-BP-4338,male,1960.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,15891.0,alive,,2859.0,
+393,TCGA-B0-5109,male,1940.0,white,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",3.0,25428.0,dead,587.0,,26015.0
+394,TCGA-CJ-6027,male,1926.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28359.0,dead,3615.0,1855.0,31974.0
+395,TCGA-CZ-4865,female,1936.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",1.0,25709.0,dead,166.0,,25875.0
+396,TCGA-CZ-4862,male,1960.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17077.0,alive,,3271.0,
+397,TCGA-A3-3322,male,1955.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,18754.0,alive,,1478.0,
+398,TCGA-CZ-4857,male,1949.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,20718.0,dead,1432.0,,22150.0
+399,TCGA-GK-A6C7,female,1936.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,28107.0,alive,,61.0,
+400,TCGA-BP-4798,male,1933.0,white,not reported,2007.0,"Clear cell adenocarcinoma, NOS",,27335.0,dead,334.0,,27669.0
+401,TCGA-T7-A92I,female,1966.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17331.0,alive,,356.0,
+402,TCGA-CJ-4635,male,1956.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17620.0,alive,,1416.0,
+403,TCGA-MM-A564,male,1944.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,24916.0,alive,,607.0,
+404,TCGA-B0-4693,female,1937.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,26659.0,dead,77.0,,26736.0
+405,TCGA-B8-A54K,male,1951.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,22627.0,alive,,469.0,
+406,TCGA-B0-4694,male,1937.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,26582.0,dead,106.0,,26688.0
+407,TCGA-BP-4795,female,1933.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,27162.0,alive,,620.0,
+408,TCGA-A3-3373,female,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19964.0,alive,,1621.0,
+409,TCGA-CJ-4904,female,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,22036.0,alive,,3302.0,
+410,TCGA-AK-3433,female,1956.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,17853.0,alive,,3409.0,
+411,TCGA-A3-3335,male,1965.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,15250.0,alive,,1886.0,
+412,TCGA-BP-5195,male,1933.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27547.0,alive,,749.0,
+413,TCGA-B8-4143,female,1936.0,white,not hispanic or latino,2003.0,"Clear cell adenocarcinoma, NOS",4.0,24132.0,dead,709.0,,24841.0
+414,TCGA-BP-5186,female,1957.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,18348.0,alive,,693.0,
+415,TCGA-CW-6088,male,1943.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22020.0,alive,,3222.0,
+416,TCGA-BP-4807,male,1966.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,15360.0,alive,,211.0,
+417,TCGA-CJ-4912,male,1945.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22623.0,alive,,1657.0,
+418,TCGA-CZ-5458,male,1963.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,15790.0,alive,,2789.0,
+419,TCGA-EU-5906,male,1955.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,20246.0,alive,,206.0,
+420,TCGA-CJ-4900,female,1937.0,white,not hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",4.0,25508.0,dead,1714.0,,27222.0
+421,TCGA-A3-3358,female,1948.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21087.0,alive,,1307.0,
+422,TCGA-B0-5108,male,1955.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,19932.0,alive,,1782.0,
+423,TCGA-B8-A54F,female,1963.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,18028.0,alive,,519.0,
+424,TCGA-B0-4837,male,1940.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",1.0,23129.0,dead,1378.0,,24507.0
+425,TCGA-B0-5701,male,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,23915.0,alive,,2461.0,
+426,TCGA-BP-4351,female,1955.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,18662.0,alive,,970.0,
+427,TCGA-CZ-5454,male,1943.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,23083.0,dead,722.0,,23805.0
+428,TCGA-B0-4844,male,1944.0,white,not hispanic or latino,2004.0,"Clear cell adenocarcinoma, NOS",4.0,22220.0,dead,313.0,,22533.0
+429,TCGA-CZ-5463,male,1931.0,white,not reported,,"Clear cell adenocarcinoma, NOS",2.0,27911.0,alive,,662.0,
+430,TCGA-BP-4771,male,1943.0,white,not reported,2005.0,"Clear cell adenocarcinoma, NOS",4.0,22771.0,dead,162.0,,22933.0
+431,TCGA-BP-4176,male,1941.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,23609.0,alive,,1955.0,
+432,TCGA-B0-4848,male,1950.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",3.0,19892.0,dead,883.0,,20775.0
+433,TCGA-B0-5693,female,1956.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17177.0,alive,,4074.0,
+434,TCGA-B8-5546,female,1972.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14113.0,alive,,505.0,
+435,TCGA-B0-5098,female,1945.0,black or african american,not hispanic or latino,2002.0,"Clear cell adenocarcinoma, NOS",1.0,19620.0,dead,1584.0,,21204.0
+436,TCGA-B2-A4SR,male,1951.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,22637.0,alive,,507.0,
+437,TCGA-A3-3362,female,1945.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21988.0,alive,,1559.0,
+438,TCGA-B8-A54G,male,1962.0,black or african american,not hispanic or latino,,"Renal cell carcinoma, NOS",1.0,18612.0,alive,,53.0,
+439,TCGA-BP-4976,male,1929.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,28380.0,alive,,1632.0,
+440,TCGA-B4-5843,male,1965.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,16779.0,alive,,11.0,
+441,TCGA-B0-5084,male,1973.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,12219.0,dead,222.0,,12441.0
+442,TCGA-B0-5694,male,1937.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,26060.0,dead,480.0,,26540.0
+443,TCGA-A3-3383,male,1954.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19324.0,alive,,861.0,
+444,TCGA-BP-4992,male,1941.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,24438.0,alive,,501.0,
+445,TCGA-B0-4834,male,1954.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,18224.0,dead,2090.0,,20314.0
+446,TCGA-CJ-4884,female,1933.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,26475.0,alive,,1759.0,
+447,TCGA-BP-5004,male,1954.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19383.0,alive,,1126.0,
+448,TCGA-BP-4776,male,1953.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19143.0,alive,,411.0,
+449,TCGA-BP-4973,male,1959.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,17461.0,alive,,1384.0,
+450,TCGA-A3-3336,female,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27538.0,alive,,1043.0,
+451,TCGA-B4-5835,female,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23408.0,alive,,16.0,
+452,TCGA-A3-3320,female,1953.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,19138.0,alive,,1508.0,
+453,TCGA-B0-5700,male,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28184.0,alive,,1790.0,
+454,TCGA-CJ-4873,female,1919.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,31096.0,alive,,2259.0,
+455,TCGA-CJ-4891,female,1948.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",3.0,21059.0,dead,819.0,,21878.0
+456,TCGA-CJ-4872,male,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18862.0,alive,,326.0,
+457,TCGA-BP-4962,male,1947.0,white,not reported,,"Clear cell adenocarcinoma, NOS",2.0,21255.0,alive,,1785.0,
+458,TCGA-B0-4690,male,1943.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,23985.0,dead,43.0,,24028.0
+459,TCGA-CJ-5683,male,1926.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,28745.0,alive,,1889.0,
+460,TCGA-A3-3346,male,1937.0,white,not reported,2005.0,"Clear cell adenocarcinoma, NOS",1.0,25118.0,dead,137.0,,25255.0
+461,TCGA-B0-5117,male,1970.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,14612.0,alive,,1608.0,
+462,TCGA-A3-A8CQ,female,1952.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21572.0,alive,,3.0,
+463,TCGA-G6-A8L7,female,1927.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,29883.0,alive,,2133.0,
+464,TCGA-BP-4774,female,1948.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,20827.0,alive,,1885.0,
+465,TCGA-CJ-5675,male,1934.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",2.0,25617.0,alive,,3936.0,
+466,TCGA-CZ-4856,female,1943.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22684.0,alive,,18.0,
+467,TCGA-BP-4355,female,1949.0,white,not reported,2010.0,"Clear cell adenocarcinoma, NOS",3.0,21642.0,dead,953.0,,22595.0
+468,TCGA-B0-5094,male,1946.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,22965.0,dead,333.0,,23298.0
+469,TCGA-A3-3308,female,1929.0,white,not reported,,"Clear cell adenocarcinoma, NOS",3.0,28287.0,alive,,16.0,
+470,TCGA-DV-5566,female,1940.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24717.0,alive,,1398.0,
+471,TCGA-BP-4162,female,1937.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,23966.0,alive,,3074.0,
+472,TCGA-BP-4777,male,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17133.0,alive,,1731.0,
+473,TCGA-BP-4959,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,17968.0,alive,,2660.0,
+474,TCGA-BP-4341,male,1936.0,white,not reported,2007.0,"Clear cell adenocarcinoma, NOS",3.0,24727.0,dead,1589.0,,26316.0
+475,TCGA-B8-4622,male,1953.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,21135.0,alive,,1525.0,
+476,TCGA-CW-6097,male,1972.0,white,not reported,2005.0,"Clear cell adenocarcinoma, NOS",3.0,11701.0,dead,571.0,,12272.0
+477,TCGA-B0-5085,female,1929.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",3.0,27793.0,dead,770.0,,28563.0
+478,TCGA-BP-5174,female,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,16693.0,alive,,2257.0,
+479,TCGA-BP-4961,male,1958.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,17284.0,alive,,1935.0,
+480,TCGA-CZ-4860,male,1945.0,white,not reported,2005.0,"Clear cell adenocarcinoma, NOS",4.0,22115.0,dead,206.0,,22321.0
+481,TCGA-B4-5834,male,1951.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,21713.0,alive,,26.0,
+482,TCGA-BP-4986,male,1931.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,27612.0,alive,,785.0,
+483,TCGA-BP-4173,male,1957.0,white,not reported,,"Clear cell adenocarcinoma, NOS",2.0,17449.0,alive,,1893.0,
+484,TCGA-B0-5096,female,1926.0,white,not hispanic or latino,1998.0,"Clear cell adenocarcinoma, NOS",3.0,26574.0,dead,68.0,,26642.0
+485,TCGA-BP-4346,male,1949.0,white,not reported,2010.0,"Clear cell adenocarcinoma, NOS",3.0,21057.0,dead,1493.0,,22550.0
+486,TCGA-CW-5581,male,1959.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,16195.0,alive,,2799.0,
+487,TCGA-B0-5812,male,1950.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19600.0,alive,,3834.0,
+488,TCGA-BP-4160,male,1935.0,white,hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,24720.0,alive,,2881.0,
+489,TCGA-CZ-5451,male,1932.0,white,not reported,,"Clear cell adenocarcinoma, NOS",2.0,27312.0,alive,,1929.0,
+490,TCGA-BP-4169,female,1927.0,white,not reported,2004.0,"Clear cell adenocarcinoma, NOS",2.0,27778.0,dead,701.0,,28479.0
+491,TCGA-B0-5106,male,1940.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,23547.0,dead,1598.0,,25145.0
+492,TCGA-B8-5550,male,1939.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,25937.0,alive,,1476.0,
+493,TCGA-CJ-4887,male,1957.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",4.0,17611.0,dead,932.0,,18543.0
+494,TCGA-B0-5402,male,1946.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,23477.0,alive,,1290.0,
+495,TCGA-CJ-4902,male,1945.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22424.0,alive,,1520.0,
+496,TCGA-CJ-4899,male,1964.0,asian,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,15637.0,alive,,1528.0,
+497,TCGA-B0-4703,male,1954.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",4.0,18921.0,dead,182.0,,19103.0
+498,TCGA-CW-5589,male,1952.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19312.0,alive,,2378.0,
+499,TCGA-B0-5709,female,1941.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22843.0,alive,,3974.0,
+500,TCGA-BP-5010,male,1944.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",3.0,23130.0,dead,878.0,,24008.0
+501,TCGA-B0-4814,male,1943.0,white,not hispanic or latino,2001.0,"Clear cell adenocarcinoma, NOS",4.0,21374.0,dead,168.0,,21542.0
+502,TCGA-BP-4769,male,1942.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23190.0,alive,,1876.0,
+503,TCGA-CJ-4634,female,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,22155.0,alive,,3498.0,
+504,TCGA-BP-4325,female,1937.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,23588.0,alive,,2964.0,
+505,TCGA-A3-3325,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19126.0,dead,1170.0,751.0,20296.0
+506,TCGA-BP-5177,female,1958.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,17147.0,alive,,293.0,
+507,TCGA-B0-4688,male,1962.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,16804.0,dead,101.0,,16905.0
+508,TCGA-BP-4759,male,1954.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,18569.0,alive,,2372.0,
+509,TCGA-BP-5189,male,1947.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",1.0,22156.0,dead,822.0,,22978.0
+510,TCGA-BP-4174,male,1955.0,white,not reported,,"Clear cell adenocarcinoma, NOS",2.0,18054.0,alive,,1879.0,
+511,TCGA-B0-4845,male,1933.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",4.0,25582.0,dead,1986.0,,27568.0
+512,TCGA-B0-4815,male,1936.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",3.0,23873.0,dead,1588.0,,25461.0
+513,TCGA-B0-4945,female,1928.0,white,not hispanic or latino,2008.0,"Clear cell adenocarcinoma, NOS",1.0,27523.0,dead,2145.0,,29668.0
+514,TCGA-CJ-5677,female,1950.0,white,not hispanic or latino,2006.0,"Clear cell adenocarcinoma, NOS",4.0,19849.0,dead,782.0,,20631.0
+515,TCGA-B8-A7U6,female,1959.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19803.0,alive,,495.0,
+516,TCGA-AK-3430,male,1943.0,white,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",3.0,22612.0,dead,480.0,,23092.0
+517,TCGA-B8-5163,female,1947.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,23293.0,alive,,822.0,
+518,TCGA-CJ-4637,female,1952.0,white,hispanic or latino,2010.0,"Clear cell adenocarcinoma, NOS",4.0,19101.0,dead,2227.0,,21328.0
+519,TCGA-B0-4821,female,1934.0,asian,not hispanic or latino,2005.0,"Clear cell adenocarcinoma, NOS",3.0,25013.0,dead,1230.0,,26243.0
+520,TCGA-3Z-A93Z,male,1944.0,black or african american,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,25205.0,alive,,385.0,
+521,TCGA-B2-3924,male,1937.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,26846.0,alive,,1092.0,
+522,TCGA-CZ-4864,male,1916.0,white,not hispanic or latino,2009.0,"Clear cell adenocarcinoma, NOS",2.0,31557.0,dead,2830.0,2830.0,34387.0
+523,TCGA-AK-3425,male,1932.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24912.0,alive,,3343.0,
+524,TCGA-CZ-4863,female,1955.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,18730.0,alive,,1928.0,
+525,TCGA-BP-4964,female,1951.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,20084.0,alive,,1862.0,
+526,TCGA-BP-4790,male,1931.0,white,not reported,2010.0,"Clear cell adenocarcinoma, NOS",1.0,28076.0,dead,1111.0,,29187.0
+527,TCGA-CZ-4861,male,1942.0,white,not reported,2006.0,"Clear cell adenocarcinoma, NOS",2.0,23053.0,dead,446.0,,23499.0
+528,TCGA-CJ-4892,female,1940.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,23764.0,alive,,1521.0,
+529,TCGA-CZ-5457,male,1944.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",3.0,22763.0,alive,,2754.0,
+530,TCGA-DV-5574,male,1971.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,13517.0,alive,,2016.0,
+531,TCGA-DV-5575,female,1955.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,19022.0,alive,,1729.0,
+532,TCGA-CZ-5467,female,1921.0,white,not hispanic or latino,2007.0,"Clear cell adenocarcinoma, NOS",3.0,31473.0,dead,73.0,,31546.0
+533,TCGA-CZ-5986,male,1945.0,white,not reported,,"Clear cell adenocarcinoma, NOS",1.0,22456.0,alive,,373.0,
+534,TCGA-CJ-4871,male,1941.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",4.0,23195.0,alive,,2423.0,
+535,TCGA-CZ-5465,female,1931.0,not reported,not reported,,"Clear cell adenocarcinoma, NOS",3.0,27838.0,dead,2564.0,1446.0,30402.0
+536,TCGA-B0-5691,female,1936.0,white,not hispanic or latino,,"Clear cell adenocarcinoma, NOS",1.0,24120.0,alive,,3431.0,
