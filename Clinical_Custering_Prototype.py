@@ -38,6 +38,18 @@ knn.fit(X, y)
 pred_y = knn.predict(X)
 print(pred_y)
 
+# Principle component Analysis
+from sklearn.decomposition import PCA
+pca = PCA(n_components = 2)
+pca_of_cie = pca.fit(clinical_info.encoded).transform(clinical_info.encoded)
+
+# Percentage of variance explained for each components
+print('explained variance ratio (first two components): %s'
+      % str(pca.explained_variance_ratio_))
+
+print(pca.singular_values_)
+
+
 # Create numpy array of each row in the dataset
 tsne_list = []
 len(clinical_info.encoded.index)
@@ -50,7 +62,7 @@ tsne_list
 
 # Reduce dimensionality with TSNE
 from sklearn.manifold import TSNE
-tsne_transformed = TSNE(n_components=3, verbose = 1, perplexity = len(tsne_list), n_iter = 300).fit_transform(tsne_list)
+tsne_transformed = TSNE(n_components=3, verbose = 1, perplexity = len(tsne_list), n_iter = 1000).fit_transform(tsne_list)
 
 # Create a column for each TSNE component and add it to the dataframe
 clinical_info.data['tsne-one'] = tsne_transformed[:,0]
