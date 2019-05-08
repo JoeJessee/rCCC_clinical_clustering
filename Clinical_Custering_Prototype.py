@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsClassifier
 import pandas as pd
 import numpy as np
+import seaborn as sns
 
 # read in data
 clinical_info = pd.read_csv("cleaned_clinical.csv")
@@ -27,16 +28,9 @@ clinical_info.encoded = pd.get_dummies(clinical_info.data, dummy_na= True)
 clinical_info.encoded = clinical_info.encoded.replace(np.nan, 0)
 clinical_info.encoded.isnull().values.any()
 
-# attempt to cluster using knn
+# assign variables for ML
 y = clinical_info.target
 X = clinical_info.encoded
-
-# Instantiate KNN and fit to data
-knn = KNeighborsClassifier(n_neighbors=5)
-knn.fit(X, y)
-
-pred_y = knn.predict(X)
-print(pred_y)
 
 # Principle component Analysis
 from sklearn.decomposition import PCA
@@ -46,9 +40,11 @@ pca_of_cie = pca.fit(clinical_info.encoded).transform(clinical_info.encoded)
 # Percentage of variance explained for each components
 print('explained variance ratio (first two components): %s'
       % str(pca.explained_variance_ratio_))
-
 print(pca.singular_values_)
 
+clinical_info.data['pc-one'] = pca_of_cie[:,0]
+clinical_info.data['pc-two'] = pca_of_cie[:,1]
+sns.scatterplot(x='pc-one', y='pc-two', data=clinical_info.data, hue=clinical_info.target)
 
 # Create numpy array of each row in the dataset
 tsne_list = []
@@ -58,7 +54,6 @@ for x in range(len(clinical_info.encoded.index)):
     tsne_list.append(row)
 
 tsne_list = np.array(tsne_list)
-tsne_list
 
 # Reduce dimensionality with TSNE
 from sklearn.manifold import TSNE
@@ -70,5 +65,26 @@ clinical_info.data['tsne-two'] = tsne_transformed[:,1]
 clinical_info.data['tsne-three'] = tsne_transformed[:,2]
 
 # Plot using TSNE scatterplot
-import seaborn as sns
 sns.scatterplot(x='tsne-one', y='tsne-two', data=clinical_info.data, hue=clinical_info.target)
+
+
+# Instantiate KNN and fit to data
+knn = KNeighborsClassifier(n_neighbors=5)
+knn.fit(X, y)
+
+pred_y = knn.predict(X)
+
+type(pred_y)
+
+# Compare the label with the predicted label for knn
+comparison = []
+def compare_arrays(y, pred_y):
+    for x in range(len(y)):
+        if y[x] == pred_y[x]:
+            comparison.append(1)
+        else:
+            comparison.append(0)
+    efficiency = (sum(comparison) / len(y)) * 100
+    print("The label matches the predicted label " + str(efficiency) + " percent of the time.")
+
+compare_arrays(y, pred_y)
