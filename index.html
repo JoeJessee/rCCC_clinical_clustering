@@ -13242,7 +13242,7 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Kidney-Tumor-data-set">Kidney Tumor data set<a class="anchor-link" href="#Kidney-Tumor-data-set">&#182;</a></h1><h2 id="Emily-Isko-and-Joe-Jessee">Emily Isko and Joe Jessee<a class="anchor-link" href="#Emily-Isko-and-Joe-Jessee">&#182;</a></h2><h3 id="Biof509:-Applied-Machine-Learning">Biof509: Applied Machine Learning<a class="anchor-link" href="#Biof509:-Applied-Machine-Learning">&#182;</a></h3><p><img src="https://upload.medbullets.com/topic/115031/images/clear_cell_renal_cell_carcinoma-2%20(1" alt="Renal Clear Cell Carcinoma">.jpg)</p>
+<h1 id="Renal-Clear-Cell-Carcinoma-Machine-Learning-Project">Renal Clear Cell Carcinoma Machine Learning Project<a class="anchor-link" href="#Renal-Clear-Cell-Carcinoma-Machine-Learning-Project">&#182;</a></h1><h2 id="Emily-Isko-and-Joe-Jessee">Emily Isko and Joe Jessee<a class="anchor-link" href="#Emily-Isko-and-Joe-Jessee">&#182;</a></h2><h3 id="Biof509:-Applied-Machine-Learning">Biof509: Applied Machine Learning<a class="anchor-link" href="#Biof509:-Applied-Machine-Learning">&#182;</a></h3><p><img src="https://upload.medbullets.com/topic/115031/images/clear_cell_renal_cell_carcinoma-2%20(1" alt="Renal Clear Cell Carcinoma">.jpg)</p>
 
 </div>
 </div>
@@ -13250,7 +13250,90 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>There are <strong>28</strong> features and <strong>537</strong> data observations.</p>
+<h1 id="Project-Background">Project Background<a class="anchor-link" href="#Project-Background">&#182;</a></h1>
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="FSGS,-which-is-not-Renal-Clear-Cell-Carcinoma">FSGS, which is not Renal Clear Cell Carcinoma<a class="anchor-link" href="#FSGS,-which-is-not-Renal-Clear-Cell-Carcinoma">&#182;</a></h1><ul>
+<li>Focal Segmental Glomerulosclerosis, or FSGS, is a leading cause of ESRD in the United States</li>
+<li>There are several sub-types of FSGS. More on that later.</li>
+<li>It is a progressive disease with no targeted therapies</li>
+<li>The disease is characterized by its pathognomonic histological pattern, which is focal and segmental scarring of the glomerulus</li>
+</ul>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><img src="https://nephcure.org/wp-content/uploads/2014/08/FSGS-Diagram-1.jpg" alt=""></p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><img src="http://3.bp.blogspot.com/-2bT0O34TxBY/TkSz8GOsXtI/AAAAAAAAAKc/XasyWjphpAA/s1600/FSGS.jpg" alt="FSGS Histology"></p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="FSGS-Sub-types-that-result-in-the-histology">FSGS Sub-types that result in the histology<a class="anchor-link" href="#FSGS-Sub-types-that-result-in-the-histology">&#182;</a></h1><ul>
+<li>Primary FSGS: Idiopathic, thought to be caused by some circulating factor</li>
+<li>Adaptive/Secondary FSGS: Caused by a mismatch between glomerular demand and capacity<ul>
+<li>Born pre-mature (less nephrons per kidney) adulthood obesity (high-metabolic load)</li>
+</ul>
+</li>
+<li>High-Penetrance Genetic FSGS</li>
+<li>HIV-Associated Nephropathy (HIVAN): Collapsing Variant of FSGS</li>
+<li>Drug-Induced FSGS: Nephrotoxic drug-related damage to glomerulus</li>
+</ul>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Why-Sub-types-are-important-in-this-case">Why Sub-types are important in this case<a class="anchor-link" href="#Why-Sub-types-are-important-in-this-case">&#182;</a></h1><ul>
+<li>There are decisions related to the drug-regimen for each of the subtypes of FSGS</li>
+<li>The actual categories are controversial and are an active field of study</li>
+<li>Taxonomy of Kidney-Disease can be very difficult in general</li>
+</ul>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="The-plan:-Statistically-robust-clustering-of-disease-phenotypes">The plan: Statistically-robust clustering of disease phenotypes<a class="anchor-link" href="#The-plan:-Statistically-robust-clustering-of-disease-phenotypes">&#182;</a></h1><ul>
+<li>This requires a complete dataset of FSGS patient data... which I am still acquiring</li>
+<li>In the meantime, the plan is to build out the pipeline on a public dataset of Renal Clear Cell Carcinoma data</li>
+</ul>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Public-Dataset-of-Renal-Clear-Cell-Carcinoma-Summary">Public Dataset of Renal Clear Cell Carcinoma Summary<a class="anchor-link" href="#Public-Dataset-of-Renal-Clear-Cell-Carcinoma-Summary">&#182;</a></h1>
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>There are supposedly  <strong>28</strong> features and <strong>537</strong> data observations.</p>
 
 </div>
 </div>
@@ -13615,7 +13698,7 @@ dtype: int64
 </div>
 </div>
 
-</div></section></section><section><section>
+</div></section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -13680,7 +13763,7 @@ dtype: int64
 
 </div>
 </div>
-</div></section></section><section><section>
+</div></section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -13749,7 +13832,7 @@ Name: tumor_stage, dtype: float64
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Encoding-numerical-data">Encoding numerical data<a class="anchor-link" href="#Encoding-numerical-data">&#182;</a></h2><p>We identified which variables should be encoded as numeric variables (anything related to year, age, or days) and converted the data types to floats.</p>
+<h2 id="Casting-numerical-data">Casting numerical data<a class="anchor-link" href="#Casting-numerical-data">&#182;</a></h2><p>We identified which variables should be encoded as numeric variables (anything related to year, age, or days) and converted the data types to floats.</p>
 
 </div>
 </div>
@@ -13816,7 +13899,7 @@ memory usage: 54.6+ KB
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Is-there-redundancy-in-the-data?">Is there redundancy in the data?<a class="anchor-link" href="#Is-there-redundancy-in-the-data?">&#182;</a></h2><p>We represented the data in a correlation matrix to identify redundant variables that may be encoding the same information.</p>
+<h2 id="Is-there-redundancy-among-the-variables?">Is there redundancy among the variables?<a class="anchor-link" href="#Is-there-redundancy-among-the-variables?">&#182;</a></h2><p>We represented the data in a correlation matrix to identify redundant variables that may be encoding the same information.</p>
 
 </div>
 </div>
@@ -13882,6 +13965,29 @@ memory usage: 54.6+ KB
 </div>
 </div>
 
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Yes,-there-is">Yes, there is<a class="anchor-link" href="#Yes,-there-is">&#182;</a></h1><ul>
+<li>Three of the event-time type variables correlate with one another<ul>
+<li>Age at Diagnosis correlates with Age at Death because someone who is diagnosed when they are old may just live to be older</li>
+<li>Age at Death correlates with Year of Birth. We suspect this is a sample bias. The patients were recruited in a recent period of time, and therefore the cross-section of patients examined would only include people who were diagnosed young and died young, and people who were diagnosed old and died when they were old.</li>
+<li>Age at Diagnosis correlates with Year of Birth for a reason we have not determined</li>
+</ul>
+</li>
+</ul>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The variables that are all correlating with eachother are typical variables when trying to collect data for a Kaplan Meier Curve, which we have included later in the presentation</p>
+
+</div>
+</div>
 </div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
@@ -13889,7 +13995,7 @@ memory usage: 54.6+ KB
 <h1 id="Data-visualization">Data visualization<a class="anchor-link" href="#Data-visualization">&#182;</a></h1>
 </div>
 </div>
-</div></section></section><section><section>
+</div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[10]:</div>
@@ -14000,7 +14106,7 @@ age_at_death  is a number
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Survival-Curve">Survival Curve<a class="anchor-link" href="#Survival-Curve">&#182;</a></h2>
+<h2 id="Kaplan-Meier-Curve">Kaplan Meier Curve<a class="anchor-link" href="#Kaplan-Meier-Curve">&#182;</a></h2>
 </div>
 </div>
 </div></section><section>
@@ -14067,6 +14173,15 @@ age_at_death  is a number
 </div>
 </div>
 
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>And now for some machine learning
+<img src="https://media2.giphy.com/media/K0mzkqytZsW1a/source.gif" alt=""></p>
+
+</div>
+</div>
 </div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
@@ -15341,57 +15456,12 @@ memory usage: 54.2+ KB
 <span class="n">cv</span> <span class="o">=</span> <span class="n">RepeatedStratifiedKFold</span><span class="p">(</span><span class="n">n_splits</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span><span class="n">n_repeats</span><span class="o">=</span><span class="mi">1000</span><span class="p">,</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">42</span><span class="p">)</span>
 
 <span class="n">scores</span> <span class="o">=</span> <span class="n">cross_val_score</span><span class="p">(</span><span class="n">lr</span><span class="p">,</span> <span class="n">X</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="n">cv</span><span class="p">,</span> <span class="n">scoring</span><span class="o">=</span><span class="s1">&#39;accuracy&#39;</span><span class="p">)</span>
-</pre></div>
 
-    </div>
-</div>
-</div>
-
-</div></section><section>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[16]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">(</span><span class="n">scores</span><span class="p">)</span><span class="o">.</span><span class="n">hist</span><span class="p">()</span>
-
+<span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">(</span><span class="n">scores</span><span class="p">)</span><span class="o">.</span><span class="n">hist</span><span class="p">()</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Accuracy: </span><span class="si">%0.2f</span><span class="s2"> (+/- </span><span class="si">%0.2f</span><span class="s2">)&quot;</span> <span class="o">%</span> <span class="p">(</span><span class="n">scores</span><span class="o">.</span><span class="n">mean</span><span class="p">(),</span> <span class="n">scores</span><span class="o">.</span><span class="n">std</span><span class="p">()</span> <span class="o">*</span> <span class="mi">2</span><span class="p">))</span>
 </pre></div>
 
     </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>Accuracy: 1.00 (+/- 0.00)
-</pre>
-</div>
-</div>
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-
-
-<div class="output_png output_subarea ">
-<img src="data:image/png;base64,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
-"
->
-</div>
-
-</div>
-
 </div>
 </div>
 
@@ -15623,6 +15693,46 @@ memory usage: 54.2+ KB
 </div>
 </div>
 
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Pre-liminary-Conclusions">Pre-liminary Conclusions<a class="anchor-link" href="#Pre-liminary-Conclusions">&#182;</a></h1>
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="The-clinical-data-is-perhaps-enough-to-predict-alive-or-dead,-but-perhaps-not-enough-to-predict-tumor-stage">The clinical data is perhaps enough to predict alive or dead, but perhaps not enough to predict tumor stage<a class="anchor-link" href="#The-clinical-data-is-perhaps-enough-to-predict-alive-or-dead,-but-perhaps-not-enough-to-predict-tumor-stage">&#182;</a></h1>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Future-work">Future work<a class="anchor-link" href="#Future-work">&#182;</a></h1>
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ol>
+<li>The dataset also includes RNA-Seq and miRNA-Seq data. Analysis of this data in addition to the clinical data may yield stronger clustering for tumor stage.</li>
+<li>More complete validation of the ML methods we employed</li>
+<li>Integrating the image analysis data using a convolutional autoencoder.</li>
+</ol>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Thank-you-very-much!">Thank you very much!<a class="anchor-link" href="#Thank-you-very-much!">&#182;</a></h1>
+</div>
+</div>
 </div></section></section>
 </div>
 </div>
