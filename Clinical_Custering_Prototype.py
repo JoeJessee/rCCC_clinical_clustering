@@ -46,6 +46,8 @@ clinical_info.data['pc-one'] = pca_of_cie[:,0]
 clinical_info.data['pc-two'] = pca_of_cie[:,1]
 sns.scatterplot(x='pc-one', y='pc-two', data=clinical_info.data, hue=clinical_info.target)
 
+
+# T-SNE
 # Create numpy array of each row in the dataset
 tsne_list = []
 len(clinical_info.encoded.index)
